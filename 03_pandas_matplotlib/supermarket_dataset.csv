@@ -1,0 +1,1001 @@
+Invoice ID,Branch,City,Customer type,Gender,Product line,Unit price,Quantity,Tax 5%,Total,Date,Time,Payment,Cost of good sold,Selling price
+750-67-8428,A,New York,Member,Female,Health and beauty,74.69,7,26.14,548.9715,1/5/2019,13:08,Ewallet,522.83,705.82
+226-31-3081,C,Los Angeles,Normal,Female,Electronic accessories,15.28,5,3.82,80.22,3/8/2019,10:29,Cash,76.4,106.96
+631-41-3108,A,New York,Normal,Male,Home and lifestyle,46.33,7,16.22,340.5255,3/3/2019,13:23,Credit card,324.31,437.82
+123-19-1176,A,New York,Member,Male,Health and beauty,58.22,8,23.29,489.048,1/27/2019,20:33,Ewallet,465.76,628.78
+373-73-7910,A,New York,Normal,Male,Food and beverages,86.31,7,30.21,634.3785,2/8/2019,10:37,Ewallet,604.17,652.5
+699-14-3026,C,Los Angeles,Normal,Male,Electronic accessories,85.39,7,29.89,627.6165,3/25/2019,18:30,Ewallet,597.73,836.82
+355-53-5943,A,New York,Member,Female,Electronic accessories,68.84,6,20.65,433.692,2/25/2019,14:36,Ewallet,413.04,578.26
+315-22-5665,C,Los Angeles,Normal,Female,Home and lifestyle,73.56,10,36.78,772.38,2/24/2019,11:38,Ewallet,735.6,993.06
+665-32-9167,A,New York,Member,Female,Health and beauty,36.26,2,3.63,76.146,1/10/2019,17:15,Credit card,72.52,97.9
+692-92-5582,B,San Francisco,Member,Female,Food and beverages,54.84,3,8.23,172.746,2/20/2019,13:27,Credit card,164.52,177.68
+351-62-0822,B,San Francisco,Member,Female,Food and beverages,14.48,4,2.9,60.816,2/6/2019,18:07,Ewallet,57.92,62.55
+529-56-3974,B,San Francisco,Member,Male,Electronic accessories,25.51,4,5.1,107.142,3/9/2019,17:03,Cash,102.04,142.86
+365-64-0515,A,New York,Normal,Female,Electronic accessories,46.95,5,11.74,246.4875,2/12/2019,10:25,Ewallet,234.75,328.65
+252-56-2699,A,New York,Normal,Male,Food and beverages,43.19,10,21.6,453.495,2/7/2019,16:48,Ewallet,431.9,466.45
+829-34-3910,A,New York,Normal,Female,Health and beauty,71.38,10,35.69,749.49,3/29/2019,19:21,Cash,713.8,963.63
+299-46-1805,B,San Francisco,Member,Female,Food and beverages,93.72,6,28.12,590.436,1/15/2019,16:19,Cash,562.32,607.31
+656-95-9349,A,New York,Member,Female,Health and beauty,68.93,7,24.13,506.6355,3/11/2019,11:03,Credit card,482.51,651.39
+765-26-6951,A,New York,Normal,Male,Food and beverages,72.61,6,21.78,457.443,1/1/2019,10:39,Credit card,435.66,470.51
+329-62-1586,A,New York,Normal,Male,Food and beverages,54.67,3,8.2,172.2105,1/21/2019,18:00,Credit card,164.01,177.13
+319-50-3348,B,San Francisco,Normal,Female,Home and lifestyle,40.3,2,4.03,84.63,3/11/2019,15:30,Ewallet,80.6,108.81
+300-71-4605,C,Los Angeles,Member,Male,Electronic accessories,86.04,5,21.51,451.71,2/25/2019,11:24,Ewallet,430.2,602.28
+371-85-5789,B,San Francisco,Normal,Male,Health and beauty,87.98,3,13.2,277.137,3/5/2019,10:40,Ewallet,263.94,356.32
+273-16-6619,B,San Francisco,Normal,Male,Home and lifestyle,33.2,2,3.32,69.72,3/15/2019,12:20,Credit card,66.4,89.64
+636-48-8204,A,New York,Normal,Male,Electronic accessories,34.56,5,8.64,181.44,2/17/2019,11:15,Ewallet,172.8,241.92
+549-59-1358,A,New York,Member,Male,Food and beverages,88.63,3,13.29,279.1845,3/2/2019,17:36,Ewallet,265.89,287.16
+227-03-5010,A,New York,Member,Female,Home and lifestyle,52.59,8,21.04,441.756,3/22/2019,19:20,Credit card,420.72,567.97
+649-29-6775,B,San Francisco,Normal,Male,Food and beverages,33.52,1,1.68,35.196,2/8/2019,15:31,Cash,33.52,36.2
+189-17-4241,A,New York,Normal,Female,Food and beverages,87.67,2,8.77,184.107,3/10/2019,12:17,Credit card,175.34,189.37
+145-94-9061,B,San Francisco,Normal,Female,Food and beverages,88.36,5,22.09,463.89,1/25/2019,19:48,Cash,441.8,477.14
+848-62-7243,A,New York,Normal,Male,Health and beauty,24.89,9,11.2,235.2105,3/15/2019,15:36,Cash,224.01,302.41
+871-79-8483,B,San Francisco,Normal,Male,Food and beverages,94.13,5,23.53,494.1825,2/25/2019,19:39,Credit card,470.65,508.3
+149-71-6266,B,San Francisco,Member,Male,Food and beverages,78.07,9,35.13,737.7615,1/28/2019,12:43,Cash,702.63,758.84
+640-49-2076,B,San Francisco,Normal,Male,Food and beverages,83.78,8,33.51,703.752,1/10/2019,14:49,Cash,670.24,723.86
+595-11-5460,A,New York,Normal,Male,Health and beauty,96.58,2,9.66,202.818,3/15/2019,10:12,Credit card,193.16,260.77
+183-56-6882,C,Los Angeles,Member,Female,Food and beverages,99.42,4,19.88,417.564,2/6/2019,10:42,Ewallet,397.68,429.49
+232-16-2483,C,Los Angeles,Member,Female,Food and beverages,68.12,1,3.41,71.526,1/7/2019,12:28,Ewallet,68.12,73.57
+129-29-8530,A,New York,Member,Male,Food and beverages,62.62,5,15.66,328.755,3/10/2019,19:15,Ewallet,313.1,338.15
+272-65-1806,A,New York,Normal,Female,Electronic accessories,60.88,9,27.4,575.316,1/15/2019,17:17,Ewallet,547.92,767.09
+333-73-7901,C,Los Angeles,Normal,Female,Health and beauty,54.92,8,21.97,461.328,3/23/2019,13:24,Ewallet,439.36,593.14
+777-82-7220,B,San Francisco,Member,Male,Home and lifestyle,30.12,8,12.05,253.008,3/3/2019,13:01,Cash,240.96,325.3
+280-35-5823,B,San Francisco,Member,Female,Home and lifestyle,86.72,1,4.34,91.056,1/17/2019,18:45,Ewallet,86.72,117.07
+554-53-8700,C,Los Angeles,Member,Male,Home and lifestyle,56.11,2,5.61,117.831,2/2/2019,10:11,Cash,112.22,151.5
+354-25-5821,B,San Francisco,Member,Female,Food and beverages,69.12,6,20.74,435.456,2/8/2019,13:03,Cash,414.72,447.9
+228-96-1411,C,Los Angeles,Member,Female,Food and beverages,98.7,8,39.48,829.08,3/4/2019,20:39,Cash,789.6,852.77
+617-15-4209,C,Los Angeles,Member,Male,Health and beauty,15.37,2,1.54,32.277,3/16/2019,19:47,Cash,30.74,41.5
+132-32-9879,B,San Francisco,Member,Female,Electronic accessories,93.96,4,18.79,394.632,3/9/2019,18:00,Cash,375.84,526.18
+370-41-7321,B,San Francisco,Member,Male,Health and beauty,56.69,9,25.51,535.7205,2/27/2019,17:24,Credit card,510.21,688.78
+727-46-3608,B,San Francisco,Member,Female,Food and beverages,20.01,9,9,189.0945,2/6/2019,15:47,Ewallet,180.09,194.5
+669-54-1719,B,San Francisco,Member,Male,Electronic accessories,18.93,6,5.68,119.259,2/10/2019,12:45,Credit card,113.58,159.01
+574-22-5561,C,Los Angeles,Member,Female,Food and beverages,82.63,10,41.32,867.615,3/19/2019,17:08,Ewallet,826.3,892.4
+326-78-5178,C,Los Angeles,Member,Male,Food and beverages,91.4,7,31.99,671.79,2/3/2019,10:19,Cash,639.8,690.98
+162-48-8011,A,New York,Member,Female,Food and beverages,44.59,5,11.15,234.0975,2/10/2019,15:10,Cash,222.95,240.79
+616-24-2851,B,San Francisco,Member,Female,Food and beverages,17.87,4,3.57,75.054,3/22/2019,14:42,Ewallet,71.48,77.2
+778-71-5554,C,Los Angeles,Member,Male,Food and beverages,15.43,1,0.77,16.2015,1/25/2019,15:46,Credit card,15.43,16.66
+242-55-6721,B,San Francisco,Normal,Male,Home and lifestyle,16.16,2,1.62,33.936,3/7/2019,11:49,Ewallet,32.32,43.63
+399-46-5918,C,Los Angeles,Normal,Female,Electronic accessories,85.98,8,34.39,722.232,2/28/2019,19:01,Cash,687.84,962.98
+106-35-6779,A,New York,Member,Male,Home and lifestyle,44.34,2,4.43,93.114,3/27/2019,11:26,Cash,88.68,119.72
+635-40-6220,A,New York,Normal,Male,Health and beauty,89.6,8,35.84,752.64,2/7/2019,11:28,Ewallet,716.8,967.68
+817-48-8732,A,New York,Member,Female,Home and lifestyle,72.35,10,36.18,759.675,1/20/2019,15:55,Cash,723.5,976.73
+120-06-4233,C,Los Angeles,Normal,Male,Electronic accessories,30.61,6,9.18,192.843,3/12/2019,20:36,Cash,183.66,257.12
+285-68-5083,C,Los Angeles,Member,Female,Food and beverages,24.74,3,3.71,77.931,2/15/2019,17:47,Credit card,74.22,80.16
+803-83-5989,C,Los Angeles,Normal,Male,Home and lifestyle,55.73,6,16.72,351.099,2/24/2019,10:55,Ewallet,334.38,451.41
+347-34-2234,B,San Francisco,Member,Female,Food and beverages,55.07,9,24.78,520.4115,2/3/2019,13:40,Ewallet,495.63,535.28
+199-75-8169,A,New York,Member,Male,Food and beverages,15.81,10,7.91,166.005,3/6/2019,12:27,Credit card,158.1,170.75
+853-23-2453,B,San Francisco,Member,Male,Health and beauty,75.74,4,15.15,318.108,2/14/2019,14:35,Cash,302.96,409
+877-22-3308,A,New York,Member,Male,Health and beauty,15.87,10,7.94,166.635,3/13/2019,16:40,Cash,158.7,214.25
+838-78-4295,C,Los Angeles,Normal,Female,Health and beauty,33.47,2,3.35,70.287,2/10/2019,15:43,Ewallet,66.94,90.37
+109-28-2512,B,San Francisco,Member,Female,Food and beverages,97.61,6,29.28,614.943,1/7/2019,15:01,Ewallet,585.66,632.51
+232-11-3025,A,New York,Normal,Male,Food and beverages,78.77,10,39.39,827.085,1/24/2019,10:04,Cash,787.7,850.72
+382-03-4532,A,New York,Member,Female,Health and beauty,18.33,1,0.92,19.2465,2/2/2019,18:50,Cash,18.33,24.75
+393-65-2792,C,Los Angeles,Normal,Male,Food and beverages,89.48,10,44.74,939.54,1/6/2019,12:46,Credit card,894.8,966.38
+796-12-2025,C,Los Angeles,Normal,Male,Food and beverages,62.12,10,31.06,652.26,2/11/2019,16:19,Cash,621.2,670.9
+510-95-6347,B,San Francisco,Member,Female,Food and beverages,48.52,3,7.28,152.838,3/5/2019,18:17,Ewallet,145.56,157.2
+841-35-6630,C,Los Angeles,Normal,Female,Electronic accessories,75.91,6,22.77,478.233,3/9/2019,18:21,Cash,455.46,637.64
+287-21-9091,A,New York,Normal,Male,Home and lifestyle,74.67,9,33.6,705.6315,1/22/2019,10:55,Ewallet,672.03,907.24
+732-94-0499,C,Los Angeles,Normal,Female,Electronic accessories,41.65,10,20.83,437.325,1/13/2019,17:04,Credit card,416.5,583.1
+263-10-3913,C,Los Angeles,Member,Male,Food and beverages,49.04,9,22.07,463.428,1/9/2019,14:20,Credit card,441.36,476.67
+381-20-0914,A,New York,Member,Female,Food and beverages,20.01,9,9,189.0945,1/12/2019,15:48,Credit card,180.09,194.5
+829-49-1914,C,Los Angeles,Member,Female,Food and beverages,78.31,10,39.16,822.255,3/5/2019,16:24,Ewallet,783.1,845.75
+756-01-7507,C,Los Angeles,Normal,Female,Health and beauty,20.38,5,5.1,106.995,1/22/2019,18:56,Cash,101.9,137.57
+870-72-4431,C,Los Angeles,Normal,Female,Health and beauty,99.19,6,29.76,624.897,1/21/2019,14:42,Credit card,595.14,803.44
+847-38-7188,B,San Francisco,Normal,Female,Food and beverages,96.68,3,14.5,304.542,1/26/2019,19:56,Ewallet,290.04,313.24
+480-63-2856,C,Los Angeles,Normal,Male,Food and beverages,19.25,8,7.7,161.7,1/23/2019,18:37,Ewallet,154,166.32
+787-56-0757,C,Los Angeles,Member,Female,Food and beverages,80.36,4,16.07,337.512,2/23/2019,18:45,Credit card,321.44,347.16
+360-39-5055,C,Los Angeles,Member,Male,Food and beverages,48.91,5,12.23,256.7775,3/9/2019,10:17,Cash,244.55,264.11
+730-50-9884,C,Los Angeles,Normal,Female,Food and beverages,83.06,7,29.07,610.491,3/5/2019,14:31,Ewallet,581.42,627.93
+362-58-8315,C,Los Angeles,Normal,Male,Food and beverages,76.52,5,19.13,401.73,3/25/2019,10:23,Cash,382.6,413.21
+633-44-8566,A,New York,Member,Male,Food and beverages,49.38,7,17.28,362.943,3/27/2019,20:35,Credit card,345.66,373.31
+504-35-8843,A,New York,Normal,Male,Food and beverages,42.47,1,2.12,44.5935,1/2/2019,16:57,Cash,42.47,45.87
+318-68-5053,B,San Francisco,Normal,Female,Health and beauty,76.99,6,23.1,485.037,2/27/2019,17:55,Cash,461.94,623.62
+565-80-5980,C,Los Angeles,Member,Female,Home and lifestyle,47.38,4,9.48,198.996,1/23/2019,10:25,Cash,189.52,255.85
+225-32-0908,C,Los Angeles,Normal,Female,Food and beverages,44.86,10,22.43,471.03,1/26/2019,19:54,Ewallet,448.6,484.49
+873-51-0671,A,New York,Member,Female,Food and beverages,21.98,7,7.69,161.553,1/10/2019,16:42,Ewallet,153.86,166.17
+152-08-9985,B,San Francisco,Member,Male,Health and beauty,64.36,9,28.96,608.202,3/12/2019,12:09,Credit card,579.24,781.97
+512-91-0811,C,Los Angeles,Normal,Male,Health and beauty,89.75,1,4.49,94.2375,2/6/2019,20:05,Credit card,89.75,121.16
+594-34-4444,A,New York,Normal,Male,Electronic accessories,97.16,1,4.86,102.018,3/8/2019,20:38,Ewallet,97.16,136.02
+766-85-7061,B,San Francisco,Normal,Male,Health and beauty,87.87,10,43.94,922.635,3/29/2019,10:25,Ewallet,878.7,1186.25
+871-39-9221,C,Los Angeles,Normal,Female,Electronic accessories,12.45,6,3.74,78.435,2/9/2019,13:11,Cash,74.7,104.58
+865-92-6136,A,New York,Normal,Male,Food and beverages,52.75,3,7.91,166.1625,3/23/2019,10:16,Ewallet,158.25,170.91
+733-01-9107,B,San Francisco,Normal,Male,Home and lifestyle,82.7,6,24.81,521.01,3/5/2019,18:14,Cash,496.2,669.87
+163-56-7055,C,Los Angeles,Member,Male,Food and beverages,48.71,1,2.44,51.1455,3/26/2019,19:20,Cash,48.71,52.61
+189-98-2939,C,Los Angeles,Normal,Male,Food and beverages,78.55,9,35.35,742.2975,3/1/2019,13:22,Cash,706.95,763.51
+551-21-3069,C,Los Angeles,Normal,Female,Electronic accessories,23.07,9,10.38,218.0115,2/1/2019,11:27,Cash,207.63,290.68
+212-62-1842,A,New York,Normal,Male,Food and beverages,58.26,6,17.48,367.038,3/28/2019,16:44,Cash,349.56,377.52
+716-39-1409,B,San Francisco,Normal,Male,Health and beauty,30.35,7,10.62,223.0725,3/19/2019,18:19,Cash,212.45,286.81
+704-48-3927,A,New York,Member,Male,Electronic accessories,88.67,10,44.34,931.035,1/12/2019,14:50,Ewallet,886.7,1241.38
+628-34-3388,C,Los Angeles,Normal,Male,Food and beverages,27.38,6,8.21,172.494,1/5/2019,20:54,Credit card,164.28,177.42
+630-74-5166,A,New York,Normal,Male,Food and beverages,62.13,6,18.64,391.419,3/22/2019,20:19,Cash,372.78,402.6
+588-01-7461,C,Los Angeles,Normal,Female,Food and beverages,33.98,9,15.29,321.111,3/24/2019,10:43,Cash,305.82,330.29
+861-77-0145,C,Los Angeles,Member,Male,Electronic accessories,81.97,10,40.99,860.685,3/3/2019,14:30,Cash,819.7,1147.58
+479-26-8945,B,San Francisco,Member,Female,Food and beverages,16.49,2,1.65,34.629,2/5/2019,11:32,Ewallet,32.98,35.62
+210-67-5886,C,Los Angeles,Member,Female,Health and beauty,98.21,3,14.73,309.3615,2/5/2019,10:41,Credit card,294.63,397.75
+227-78-1148,B,San Francisco,Normal,Female,Food and beverages,72.84,7,25.49,535.374,2/15/2019,12:44,Cash,509.88,550.67
+645-44-1170,A,New York,Member,Male,Home and lifestyle,58.07,9,26.13,548.7615,1/19/2019,20:07,Ewallet,522.63,705.55
+237-01-6122,C,Los Angeles,Member,Female,Home and lifestyle,80.79,9,36.36,763.4655,2/1/2019,20:31,Credit card,727.11,981.6
+225-98-1496,C,Los Angeles,Normal,Female,Food and beverages,27.02,3,4.05,85.113,3/2/2019,13:01,Credit card,81.06,87.54
+291-32-1427,B,San Francisco,Member,Male,Food and beverages,21.94,5,5.49,115.185,3/5/2019,12:29,Ewallet,109.7,118.48
+659-65-8956,B,San Francisco,Member,Male,Food and beverages,51.36,1,2.57,53.928,1/16/2019,15:26,Ewallet,51.36,55.47
+642-32-2990,A,New York,Normal,Female,Food and beverages,10.96,10,5.48,115.08,2/2/2019,20:48,Ewallet,109.6,118.37
+378-24-2715,B,San Francisco,Normal,Male,Home and lifestyle,53.44,2,5.34,112.224,1/20/2019,20:38,Ewallet,106.88,144.29
+638-60-7125,A,New York,Normal,Female,Electronic accessories,99.56,8,39.82,836.304,2/14/2019,17:03,Credit card,796.48,1115.07
+659-36-1684,C,Los Angeles,Member,Male,Food and beverages,57.12,7,19.99,419.832,1/12/2019,12:02,Credit card,399.84,431.83
+219-22-9386,B,San Francisco,Member,Male,Food and beverages,99.96,9,44.98,944.622,3/9/2019,17:26,Credit card,899.64,971.61
+336-78-2147,C,Los Angeles,Member,Male,Home and lifestyle,63.91,8,25.56,536.844,3/13/2019,19:52,Credit card,511.28,690.23
+268-27-6179,B,San Francisco,Member,Female,Food and beverages,56.47,8,22.59,474.348,3/9/2019,14:57,Ewallet,451.76,487.9
+668-90-8900,A,New York,Normal,Female,Home and lifestyle,93.69,7,32.79,688.6215,3/10/2019,18:44,Credit card,655.83,885.37
+870-54-3162,A,New York,Normal,Female,Food and beverages,32.25,5,8.06,169.3125,1/27/2019,13:26,Cash,161.25,174.15
+189-08-9157,C,Los Angeles,Normal,Female,Food and beverages,31.73,9,14.28,299.8485,1/8/2019,16:17,Credit card,285.57,308.42
+663-86-9076,C,Los Angeles,Member,Female,Food and beverages,68.54,8,27.42,575.736,1/8/2019,15:57,Ewallet,548.32,592.19
+549-84-7482,B,San Francisco,Normal,Female,Food and beverages,90.28,9,40.63,853.146,2/8/2019,11:15,Ewallet,812.52,877.52
+191-10-6171,B,San Francisco,Normal,Female,Food and beverages,39.62,7,13.87,291.207,1/25/2019,13:18,Cash,277.34,299.53
+802-70-5316,A,New York,Member,Female,Food and beverages,92.13,6,27.64,580.419,3/6/2019,20:34,Cash,552.78,597
+695-51-0018,B,San Francisco,Normal,Female,Food and beverages,34.84,4,6.97,146.328,2/10/2019,18:36,Cash,139.36,150.51
+590-83-4591,B,San Francisco,Member,Male,Electronic accessories,87.45,6,26.24,550.935,2/17/2019,14:40,Credit card,524.7,734.58
+483-71-1164,C,Los Angeles,Normal,Female,Health and beauty,81.3,6,24.39,512.19,3/8/2019,16:43,Ewallet,487.8,658.53
+597-78-7908,C,Los Angeles,Normal,Male,Food and beverages,90.22,3,13.53,284.193,2/18/2019,19:39,Cash,270.66,292.31
+700-81-1757,A,New York,Normal,Female,Electronic accessories,26.31,5,6.58,138.1275,1/18/2019,20:59,Credit card,131.55,184.17
+354-39-5160,A,New York,Member,Female,Home and lifestyle,34.42,6,10.33,216.846,2/18/2019,15:39,Cash,206.52,278.8
+241-72-9525,B,San Francisco,Normal,Male,Food and beverages,51.91,10,25.96,545.055,2/16/2019,12:21,Cash,519.1,560.63
+575-30-8091,A,New York,Normal,Male,Food and beverages,72.5,8,29,609,3/16/2019,19:25,Ewallet,580,626.4
+731-81-9469,C,Los Angeles,Member,Female,Food and beverages,89.8,10,44.9,942.9,1/23/2019,13:00,Credit card,898,969.84
+280-17-4359,C,Los Angeles,Member,Male,Health and beauty,90.5,10,45.25,950.25,1/25/2019,13:48,Cash,905,1221.75
+338-65-2210,C,Los Angeles,Member,Female,Health and beauty,68.6,10,34.3,720.3,2/5/2019,19:57,Cash,686,926.1
+488-25-4221,C,Los Angeles,Member,Female,Food and beverages,30.41,1,1.52,31.9305,2/22/2019,10:36,Credit card,30.41,32.84
+239-10-7476,A,New York,Normal,Female,Home and lifestyle,77.95,6,23.39,491.085,1/21/2019,16:37,Ewallet,467.7,631.4
+458-41-1477,C,Los Angeles,Normal,Female,Health and beauty,46.26,6,13.88,291.438,3/8/2019,17:11,Credit card,277.56,374.71
+685-64-1609,A,New York,Member,Female,Food and beverages,30.14,10,15.07,316.47,2/10/2019,12:28,Ewallet,301.4,325.51
+568-90-5112,C,Los Angeles,Normal,Male,Health and beauty,66.14,4,13.23,277.788,3/19/2019,12:46,Credit card,264.56,357.16
+262-47-2794,B,San Francisco,Member,Male,Home and lifestyle,71.86,8,28.74,603.624,3/6/2019,15:07,Credit card,574.88,776.09
+238-49-0436,A,New York,Normal,Male,Health and beauty,32.46,8,12.98,272.664,3/27/2019,13:48,Credit card,259.68,350.57
+608-96-3517,B,San Francisco,Member,Female,Food and beverages,91.54,4,18.31,384.468,3/23/2019,19:20,Credit card,366.16,395.45
+584-86-7256,C,Los Angeles,Member,Male,Food and beverages,34.56,7,12.1,254.016,3/11/2019,16:07,Credit card,241.92,261.27
+746-94-0204,A,New York,Normal,Male,Food and beverages,83.24,9,37.46,786.618,1/29/2019,11:56,Credit card,749.16,809.09
+214-17-6927,C,Los Angeles,Normal,Female,Food and beverages,16.48,6,4.94,103.824,2/7/2019,18:23,Ewallet,98.88,106.79
+400-89-4171,C,Los Angeles,Normal,Female,Food and beverages,80.97,8,32.39,680.148,1/28/2019,13:05,Cash,647.76,699.58
+782-95-9291,A,New York,Member,Male,Food and beverages,92.29,5,23.07,484.5225,2/20/2019,15:55,Credit card,461.45,498.37
+279-74-2924,B,San Francisco,Member,Male,Electronic accessories,72.17,1,3.61,75.7785,1/4/2019,19:40,Cash,72.17,101.04
+307-85-2293,B,San Francisco,Normal,Male,Home and lifestyle,50.28,5,12.57,263.97,3/7/2019,13:58,Ewallet,251.4,339.39
+743-04-1105,B,San Francisco,Member,Male,Health and beauty,97.22,9,43.75,918.729,3/30/2019,14:43,Ewallet,874.98,1181.22
+423-57-2993,B,San Francisco,Normal,Male,Food and beverages,93.39,6,28.02,588.357,3/27/2019,19:18,Ewallet,560.34,605.17
+894-41-5205,C,Los Angeles,Normal,Female,Food and beverages,43.18,8,17.27,362.712,1/19/2019,19:39,Credit card,345.44,373.08
+275-28-0149,A,New York,Normal,Male,Food and beverages,63.69,1,3.18,66.8745,2/25/2019,16:21,Cash,63.69,68.79
+101-17-6199,A,New York,Normal,Male,Food and beverages,45.79,7,16.03,336.5565,3/13/2019,19:44,Credit card,320.53,346.17
+423-80-0988,C,Los Angeles,Normal,Male,Food and beverages,76.4,2,7.64,160.44,1/30/2019,19:42,Ewallet,152.8,165.02
+548-46-9322,B,San Francisco,Normal,Male,Food and beverages,39.9,10,19.95,418.95,2/20/2019,15:24,Credit card,399,430.92
+505-02-0892,B,San Francisco,Member,Male,Health and beauty,42.57,8,17.03,357.588,2/25/2019,14:12,Ewallet,340.56,459.76
+234-65-2137,C,Los Angeles,Normal,Male,Home and lifestyle,95.58,10,47.79,1003.59,1/16/2019,13:32,Cash,955.8,1290.33
+687-47-8271,A,New York,Normal,Male,Food and beverages,98.98,10,49.49,1039.29,2/8/2019,16:20,Credit card,989.8,1068.98
+796-32-9050,A,New York,Normal,Male,Food and beverages,51.28,6,15.38,323.064,1/19/2019,16:31,Cash,307.68,332.29
+105-31-1824,A,New York,Member,Male,Food and beverages,69.52,7,24.33,510.972,2/1/2019,15:10,Credit card,486.64,525.57
+249-42-3782,A,New York,Normal,Male,Health and beauty,70.01,5,17.5,367.5525,1/3/2019,11:36,Ewallet,350.05,472.57
+316-55-4634,B,San Francisco,Member,Male,Food and beverages,80.05,5,20.01,420.2625,1/26/2019,12:45,Credit card,400.25,432.27
+733-33-4967,C,Los Angeles,Normal,Male,Electronic accessories,20.85,8,8.34,175.14,3/3/2019,19:17,Cash,166.8,233.52
+608-27-6295,B,San Francisco,Member,Male,Electronic accessories,52.89,6,15.87,333.207,1/19/2019,17:34,Credit card,317.34,444.28
+414-12-7047,B,San Francisco,Normal,Male,Food and beverages,19.79,8,7.92,166.236,1/18/2019,12:04,Ewallet,158.32,170.99
+827-26-2100,A,New York,Member,Male,Home and lifestyle,33.84,9,15.23,319.788,3/21/2019,16:21,Ewallet,304.56,411.16
+175-54-2529,A,New York,Member,Male,Food and beverages,22.17,8,8.87,186.228,3/3/2019,17:01,Credit card,177.36,191.55
+139-52-2867,C,Los Angeles,Normal,Female,Food and beverages,22.51,7,7.88,165.4485,2/13/2019,10:50,Credit card,157.57,170.18
+407-63-8975,A,New York,Normal,Male,Food and beverages,73.88,6,22.16,465.444,3/23/2019,19:16,Ewallet,443.28,478.74
+342-65-4817,C,Los Angeles,Member,Male,Health and beauty,86.8,3,13.02,273.42,1/28/2019,16:47,Ewallet,260.4,351.54
+130-98-8941,C,Los Angeles,Normal,Male,Food and beverages,64.26,7,22.49,472.311,2/9/2019,10:00,Cash,449.82,485.81
+434-83-9547,C,Los Angeles,Member,Male,Food and beverages,38.47,8,15.39,323.148,1/23/2019,11:51,Cash,307.76,332.38
+851-28-6367,A,New York,Member,Male,Food and beverages,15.5,10,7.75,162.75,3/23/2019,10:55,Ewallet,155,167.4
+824-88-3614,C,Los Angeles,Normal,Male,Health and beauty,34.31,8,13.72,288.204,1/25/2019,15:00,Ewallet,274.48,370.55
+586-25-0848,A,New York,Normal,Female,Food and beverages,12.34,7,4.32,90.699,3/4/2019,11:19,Credit card,86.38,93.29
+895-66-0685,B,San Francisco,Member,Male,Food and beverages,18.08,3,2.71,56.952,3/5/2019,19:46,Ewallet,54.24,58.58
+305-14-0245,B,San Francisco,Member,Female,Home and lifestyle,94.49,8,37.8,793.716,3/3/2019,19:00,Ewallet,755.92,1020.49
+732-04-5373,B,San Francisco,Member,Male,Home and lifestyle,46.47,4,9.29,195.174,2/8/2019,10:53,Cash,185.88,250.94
+400-60-7251,A,New York,Normal,Male,Home and lifestyle,74.07,1,3.7,77.7735,2/10/2019,12:50,Ewallet,74.07,99.99
+593-65-1552,C,Los Angeles,Normal,Female,Home and lifestyle,69.81,4,13.96,293.202,1/28/2019,20:50,Credit card,279.24,376.97
+284-34-9626,B,San Francisco,Normal,Female,Home and lifestyle,77.04,3,11.56,242.676,2/11/2019,10:39,Credit card,231.12,312.01
+437-58-8131,B,San Francisco,Normal,Female,Food and beverages,73.52,2,7.35,154.392,1/15/2019,13:41,Ewallet,147.04,158.8
+286-43-6208,C,Los Angeles,Normal,Female,Food and beverages,87.8,9,39.51,829.71,3/16/2019,19:08,Cash,790.2,853.42
+641-43-2399,B,San Francisco,Normal,Male,Home and lifestyle,25.55,4,5.11,107.31,1/26/2019,20:23,Ewallet,102.2,137.97
+831-07-6050,A,New York,Normal,Male,Electronic accessories,32.71,5,8.18,171.7275,3/19/2019,11:30,Credit card,163.55,228.97
+556-86-3144,C,Los Angeles,Member,Female,Food and beverages,74.29,1,3.71,78.0045,1/13/2019,19:30,Cash,74.29,80.23
+848-24-9445,C,Los Angeles,Member,Male,Health and beauty,43.7,2,4.37,91.77,3/26/2019,18:03,Cash,87.4,117.99
+856-22-8149,A,New York,Normal,Female,Home and lifestyle,25.29,1,1.26,26.5545,3/23/2019,10:13,Ewallet,25.29,34.14
+699-01-4164,C,Los Angeles,Normal,Male,Health and beauty,41.5,4,8.3,174.3,3/12/2019,19:58,Credit card,166,224.1
+420-11-4919,C,Los Angeles,Member,Female,Food and beverages,71.39,5,17.85,374.7975,2/17/2019,19:57,Credit card,356.95,385.51
+606-80-4905,C,Los Angeles,Member,Female,Food and beverages,19.15,6,5.75,120.645,1/29/2019,10:01,Credit card,114.9,124.09
+542-41-0513,B,San Francisco,Member,Female,Electronic accessories,57.49,4,11.5,241.458,3/15/2019,11:57,Cash,229.96,321.94
+426-39-2418,C,Los Angeles,Normal,Male,Electronic accessories,61.41,7,21.49,451.3635,1/14/2019,10:02,Cash,429.87,601.82
+875-46-5808,B,San Francisco,Member,Male,Health and beauty,25.9,10,12.95,271.95,2/6/2019,14:51,Ewallet,259,349.65
+394-43-4238,B,San Francisco,Member,Male,Home and lifestyle,17.77,5,4.44,93.2925,2/15/2019,12:42,Credit card,88.85,119.95
+749-24-1565,A,New York,Normal,Female,Health and beauty,23.03,9,10.36,217.6335,1/3/2019,12:02,Ewallet,207.27,279.81
+672-51-8681,C,Los Angeles,Member,Female,Electronic accessories,66.65,9,29.99,629.8425,1/4/2019,18:19,Credit card,599.85,839.79
+263-87-5680,C,Los Angeles,Member,Female,Home and lifestyle,28.53,10,14.27,299.565,3/18/2019,17:38,Ewallet,285.3,385.16
+573-58-9734,B,San Francisco,Normal,Female,Food and beverages,30.37,3,4.56,95.6655,3/28/2019,13:41,Ewallet,91.11,98.4
+817-69-8206,B,San Francisco,Normal,Female,Electronic accessories,99.73,9,44.88,942.4485,3/2/2019,19:42,Credit card,897.57,1256.6
+888-02-0338,A,New York,Normal,Male,Electronic accessories,26.23,9,11.8,247.8735,1/25/2019,20:24,Ewallet,236.07,330.5
+677-11-0152,C,Los Angeles,Normal,Female,Food and beverages,93.26,9,41.97,881.307,1/16/2019,18:08,Cash,839.34,906.49
+142-63-6033,B,San Francisco,Normal,Male,Home and lifestyle,92.36,5,23.09,484.89,3/20/2019,19:17,Ewallet,461.8,623.43
+656-16-1063,B,San Francisco,Normal,Male,Food and beverages,46.42,3,6.96,146.223,1/4/2019,13:24,Credit card,139.26,150.4
+891-58-8335,B,San Francisco,Member,Female,Food and beverages,29.61,7,10.36,217.6335,3/11/2019,15:53,Cash,207.27,223.85
+802-43-8934,A,New York,Normal,Male,Home and lifestyle,18.28,1,0.91,19.194,3/22/2019,15:05,Credit card,18.28,24.68
+560-30-5617,B,San Francisco,Normal,Female,Food and beverages,24.77,5,6.19,130.0425,3/24/2019,18:27,Cash,123.85,133.76
+319-74-2561,A,New York,Member,Female,Electronic accessories,94.64,3,14.2,298.116,2/21/2019,16:55,Cash,283.92,397.49
+549-03-9315,B,San Francisco,Normal,Male,Food and beverages,94.87,8,37.95,796.908,2/12/2019,12:58,Ewallet,758.96,819.68
+790-29-1172,B,San Francisco,Normal,Female,Food and beverages,57.34,3,8.6,180.621,3/10/2019,18:59,Credit card,172.02,185.78
+239-36-3640,B,San Francisco,Normal,Male,Electronic accessories,45.35,6,13.61,285.705,1/31/2019,13:44,Ewallet,272.1,380.94
+468-01-2051,B,San Francisco,Normal,Male,Food and beverages,62.08,7,21.73,456.288,3/6/2019,13:46,Ewallet,434.56,469.32
+389-25-3394,C,Los Angeles,Normal,Male,Electronic accessories,11.81,5,2.95,62.0025,2/17/2019,18:06,Cash,59.05,82.67
+279-62-1445,C,Los Angeles,Member,Female,Food and beverages,12.54,1,0.63,13.167,2/21/2019,12:38,Cash,12.54,13.54
+213-72-6612,A,New York,Normal,Male,Food and beverages,43.25,2,4.33,90.825,3/20/2019,15:56,Cash,86.5,93.42
+746-68-6593,C,Los Angeles,Member,Female,Food and beverages,87.16,2,8.72,183.036,1/11/2019,14:29,Credit card,174.32,188.27
+836-82-5858,B,San Francisco,Member,Male,Health and beauty,69.37,9,31.22,655.5465,1/26/2019,19:14,Ewallet,624.33,842.85
+583-72-1480,C,Los Angeles,Member,Male,Electronic accessories,37.06,4,7.41,155.652,1/31/2019,16:24,Ewallet,148.24,207.54
+466-61-5506,B,San Francisco,Member,Female,Electronic accessories,90.7,6,27.21,571.41,2/26/2019,10:52,Cash,544.2,761.88
+721-86-6247,A,New York,Normal,Female,Home and lifestyle,63.42,8,25.37,532.728,3/11/2019,12:55,Ewallet,507.36,684.94
+289-65-5721,B,San Francisco,Normal,Female,Food and beverages,81.37,2,8.14,170.877,1/26/2019,19:28,Cash,162.74,175.76
+545-46-3100,B,San Francisco,Member,Female,Electronic accessories,10.59,3,1.59,33.3585,3/12/2019,13:52,Credit card,31.77,44.48
+418-02-5978,B,San Francisco,Normal,Female,Health and beauty,84.09,9,37.84,794.6505,2/11/2019,10:54,Cash,756.81,1021.69
+269-04-5750,B,San Francisco,Member,Male,Food and beverages,73.82,4,14.76,310.044,2/21/2019,18:31,Cash,295.28,318.9
+157-13-5295,A,New York,Member,Male,Health and beauty,51.94,10,25.97,545.37,3/9/2019,18:24,Ewallet,519.4,701.19
+645-78-8093,A,New York,Normal,Female,Food and beverages,93.14,2,9.31,195.594,1/20/2019,18:09,Ewallet,186.28,201.18
+211-30-9270,C,Los Angeles,Normal,Male,Health and beauty,17.41,5,4.35,91.4025,1/28/2019,15:16,Credit card,87.05,117.52
+755-12-3214,C,Los Angeles,Member,Female,Food and beverages,44.22,5,11.06,232.155,3/5/2019,17:07,Credit card,221.1,238.79
+346-84-3103,B,San Francisco,Member,Female,Electronic accessories,13.22,5,3.31,69.405,3/2/2019,19:26,Cash,66.1,92.54
+478-06-7835,A,New York,Normal,Male,Food and beverages,89.69,1,4.48,94.1745,1/11/2019,11:20,Ewallet,89.69,96.87
+540-11-4336,A,New York,Normal,Male,Food and beverages,24.94,9,11.22,235.683,1/11/2019,16:49,Credit card,224.46,242.42
+448-81-5016,A,New York,Normal,Male,Health and beauty,59.77,2,5.98,125.517,3/11/2019,12:01,Credit card,119.54,161.38
+142-72-4741,C,Los Angeles,Member,Male,Food and beverages,93.2,2,9.32,195.72,2/28/2019,18:37,Credit card,186.4,201.31
+217-58-1179,A,New York,Member,Male,Home and lifestyle,62.65,4,12.53,263.13,1/5/2019,11:25,Cash,250.6,338.31
+376-02-8238,B,San Francisco,Normal,Male,Home and lifestyle,93.87,8,37.55,788.508,2/2/2019,18:42,Credit card,750.96,1013.8
+530-90-9855,A,New York,Member,Male,Home and lifestyle,47.59,8,19.04,399.756,1/1/2019,14:47,Cash,380.72,513.97
+866-05-7563,B,San Francisco,Member,Female,Electronic accessories,81.4,3,12.21,256.41,2/9/2019,19:43,Cash,244.2,341.88
+604-70-6476,A,New York,Member,Male,Food and beverages,17.94,5,4.49,94.185,1/23/2019,14:04,Ewallet,89.7,96.88
+799-71-1548,A,New York,Member,Male,Electronic accessories,77.72,4,15.54,326.424,1/7/2019,16:11,Credit card,310.88,435.23
+785-13-7708,B,San Francisco,Normal,Male,Food and beverages,73.06,7,25.57,536.991,1/14/2019,19:06,Credit card,511.42,552.33
+845-51-0542,B,San Francisco,Member,Male,Food and beverages,46.55,9,20.95,439.8975,2/2/2019,15:34,Ewallet,418.95,452.47
+662-47-5456,C,Los Angeles,Member,Male,Food and beverages,35.19,10,17.6,369.495,3/17/2019,19:06,Credit card,351.9,380.05
+883-17-4236,C,Los Angeles,Normal,Female,Food and beverages,14.39,2,1.44,30.219,3/2/2019,19:44,Credit card,28.78,31.08
+290-68-2984,A,New York,Normal,Male,Home and lifestyle,23.75,4,4.75,99.75,3/16/2019,11:22,Cash,95,128.25
+704-11-6354,A,New York,Member,Male,Home and lifestyle,58.9,8,23.56,494.76,1/6/2019,11:23,Cash,471.2,636.12
+110-48-7033,B,San Francisco,Member,Male,Food and beverages,32.62,4,6.52,137.004,1/29/2019,14:12,Cash,130.48,140.92
+366-93-0948,A,New York,Member,Male,Electronic accessories,66.35,1,3.32,69.6675,1/31/2019,10:46,Credit card,66.35,92.89
+729-09-9681,A,New York,Member,Male,Home and lifestyle,25.91,6,7.77,163.233,2/5/2019,10:16,Ewallet,155.46,209.87
+151-16-1484,A,New York,Member,Male,Electronic accessories,32.25,4,6.45,135.45,2/13/2019,12:38,Ewallet,129,180.6
+380-94-4661,C,Los Angeles,Member,Male,Electronic accessories,65.94,4,13.19,276.948,2/7/2019,13:05,Credit card,263.76,369.26
+850-41-9669,A,New York,Normal,Female,Electronic accessories,75.06,9,33.78,709.317,3/19/2019,13:25,Ewallet,675.54,945.76
+821-07-3596,C,Los Angeles,Normal,Female,Food and beverages,16.45,4,3.29,69.09,3/7/2019,14:53,Ewallet,65.8,71.06
+655-85-5130,B,San Francisco,Member,Female,Food and beverages,38.3,4,7.66,160.86,3/13/2019,19:22,Cash,153.2,165.46
+447-15-7839,A,New York,Member,Female,Food and beverages,22.24,10,11.12,233.52,2/9/2019,11:00,Cash,222.4,240.19
+154-74-7179,B,San Francisco,Normal,Male,Food and beverages,54.45,1,2.72,57.1725,2/26/2019,19:24,Ewallet,54.45,58.81
+253-12-6086,A,New York,Member,Female,Food and beverages,98.4,7,34.44,723.24,3/12/2019,12:43,Credit card,688.8,743.9
+808-65-0703,C,Los Angeles,Normal,Male,Home and lifestyle,35.47,4,7.09,148.974,3/14/2019,17:22,Credit card,141.88,191.54
+571-94-0759,B,San Francisco,Member,Female,Food and beverages,74.6,10,37.3,783.3,1/8/2019,20:55,Cash,746,805.68
+144-51-6085,A,New York,Member,Male,Home and lifestyle,70.74,4,14.15,297.108,1/5/2019,16:05,Credit card,282.96,382
+731-14-2199,A,New York,Member,Female,Home and lifestyle,35.54,10,17.77,373.17,1/4/2019,13:34,Ewallet,355.4,479.79
+783-09-1637,B,San Francisco,Normal,Female,Food and beverages,67.43,5,16.86,354.0075,3/6/2019,18:13,Ewallet,337.15,364.12
+687-15-1097,C,Los Angeles,Member,Female,Health and beauty,21.12,2,2.11,44.352,1/3/2019,19:17,Cash,42.24,57.02
+126-54-1082,A,New York,Member,Female,Home and lifestyle,21.54,9,9.69,203.553,1/7/2019,11:44,Credit card,193.86,261.71
+633-91-1052,A,New York,Normal,Female,Home and lifestyle,12.03,2,1.2,25.263,1/27/2019,15:51,Cash,24.06,32.48
+477-24-6490,B,San Francisco,Normal,Female,Health and beauty,99.71,6,29.91,628.173,2/26/2019,16:52,Ewallet,598.26,807.65
+566-19-5475,B,San Francisco,Normal,Male,Food and beverages,47.97,7,16.79,352.5795,1/7/2019,20:52,Cash,335.79,362.65
+526-86-8552,C,Los Angeles,Member,Female,Home and lifestyle,21.82,10,10.91,229.11,1/7/2019,17:36,Cash,218.2,294.57
+376-56-3573,C,Los Angeles,Normal,Female,Food and beverages,95.42,4,19.08,400.764,2/2/2019,13:23,Ewallet,381.68,412.21
+537-72-0426,C,Los Angeles,Member,Male,Food and beverages,70.99,10,35.5,745.395,3/20/2019,16:28,Cash,709.9,766.69
+828-61-5674,A,New York,Member,Male,Food and beverages,44.02,10,22.01,462.21,3/20/2019,19:57,Credit card,440.2,475.42
+136-08-6195,A,New York,Normal,Female,Home and lifestyle,69.96,8,27.98,587.664,2/15/2019,17:01,Credit card,559.68,755.57
+523-38-0215,C,Los Angeles,Normal,Male,Home and lifestyle,37,1,1.85,38.85,3/6/2019,13:29,Credit card,37,49.95
+490-29-1201,A,New York,Normal,Female,Food and beverages,15.34,1,0.77,16.107,1/6/2019,11:09,Cash,15.34,16.57
+667-92-0055,A,New York,Member,Male,Health and beauty,99.83,6,29.95,628.929,3/4/2019,15:02,Ewallet,598.98,808.62
+565-17-3836,A,New York,Member,Female,Health and beauty,47.67,4,9.53,200.214,3/12/2019,14:21,Cash,190.68,257.42
+498-41-1961,B,San Francisco,Normal,Male,Health and beauty,66.68,5,16.67,350.07,2/20/2019,18:01,Cash,333.4,450.09
+593-95-4461,C,Los Angeles,Member,Male,Home and lifestyle,74.86,1,3.74,78.603,3/24/2019,14:49,Cash,74.86,101.06
+226-71-3580,C,Los Angeles,Normal,Female,Food and beverages,23.75,9,10.69,224.4375,1/31/2019,12:02,Cash,213.75,230.85
+283-79-9594,B,San Francisco,Normal,Female,Food and beverages,48.51,7,16.98,356.5485,1/25/2019,13:30,Credit card,339.57,366.74
+430-60-3493,A,New York,Member,Female,Home and lifestyle,94.88,7,33.21,697.368,2/3/2019,14:38,Cash,664.16,896.62
+139-20-0155,B,San Francisco,Member,Male,Electronic accessories,40.3,10,20.15,423.15,1/24/2019,17:37,Credit card,403,564.2
+558-80-4082,C,Los Angeles,Normal,Male,Electronic accessories,27.85,7,9.75,204.6975,3/14/2019,17:20,Ewallet,194.95,272.93
+278-97-7759,A,New York,Member,Female,Electronic accessories,62.48,1,3.12,65.604,2/18/2019,20:29,Cash,62.48,87.47
+316-68-6352,A,New York,Member,Female,Food and beverages,36.36,2,3.64,76.356,1/21/2019,10:00,Cash,72.72,78.54
+585-03-5943,B,San Francisco,Normal,Male,Health and beauty,18.11,10,9.06,190.155,3/13/2019,11:46,Ewallet,181.1,244.49
+211-05-0490,C,Los Angeles,Member,Female,Electronic accessories,51.92,5,12.98,272.58,3/3/2019,13:42,Cash,259.6,363.44
+727-75-6477,C,Los Angeles,Normal,Male,Electronic accessories,28.84,4,5.77,121.128,3/29/2019,14:44,Cash,115.36,161.5
+744-02-5987,A,New York,Member,Male,Home and lifestyle,78.38,6,23.51,493.794,1/10/2019,14:16,Ewallet,470.28,634.88
+307-83-9164,A,New York,Member,Male,Home and lifestyle,60.01,4,12,252.042,1/25/2019,15:54,Cash,240.04,324.05
+779-06-0012,C,Los Angeles,Member,Female,Home and lifestyle,88.61,1,4.43,93.0405,1/19/2019,10:21,Cash,88.61,119.62
+446-47-6729,C,Los Angeles,Normal,Male,Food and beverages,99.82,2,9.98,209.622,1/2/2019,18:09,Credit card,199.64,215.61
+573-10-3877,B,San Francisco,Member,Male,Health and beauty,39.01,1,1.95,40.9605,3/12/2019,16:46,Credit card,39.01,52.66
+735-06-4124,C,Los Angeles,Normal,Male,Food and beverages,48.61,1,2.43,51.0405,2/25/2019,15:31,Cash,48.61,52.5
+439-54-7422,A,New York,Normal,Female,Electronic accessories,51.19,4,10.24,214.998,3/18/2019,17:15,Credit card,204.76,286.66
+396-90-2219,B,San Francisco,Normal,Female,Electronic accessories,14.96,8,5.98,125.664,2/23/2019,12:29,Cash,119.68,167.55
+411-77-0180,A,New York,Member,Male,Electronic accessories,72.2,7,25.27,530.67,3/26/2019,20:14,Ewallet,505.4,707.56
+286-01-5402,A,New York,Normal,Female,Food and beverages,40.23,7,14.08,295.6905,3/30/2019,13:22,Cash,281.61,304.14
+803-17-8013,A,New York,Member,Female,Home and lifestyle,88.79,8,35.52,745.836,2/17/2019,17:09,Cash,710.32,958.93
+512-98-1403,A,New York,Member,Female,Electronic accessories,26.48,3,3.97,83.412,3/21/2019,10:40,Ewallet,79.44,111.22
+848-42-2560,A,New York,Normal,Female,Food and beverages,81.91,2,8.19,172.011,3/5/2019,17:43,Cash,163.82,176.93
+532-59-7201,B,San Francisco,Member,Male,Food and beverages,79.93,6,23.98,503.559,1/31/2019,14:04,Cash,479.58,517.95
+181-94-6432,C,Los Angeles,Member,Male,Food and beverages,69.33,2,6.93,145.593,2/5/2019,19:05,Ewallet,138.66,149.75
+870-76-1733,A,New York,Member,Female,Food and beverages,14.23,5,3.56,74.7075,2/1/2019,10:08,Credit card,71.15,76.84
+423-64-4619,A,New York,Member,Female,Health and beauty,15.55,9,7,146.9475,3/7/2019,13:12,Cash,139.95,188.93
+227-07-4446,C,Los Angeles,Member,Female,Electronic accessories,78.13,10,39.07,820.365,2/10/2019,20:51,Cash,781.3,1093.82
+174-36-3675,C,Los Angeles,Member,Male,Food and beverages,99.37,2,9.94,208.677,2/14/2019,17:29,Cash,198.74,214.64
+428-83-5800,C,Los Angeles,Member,Female,Food and beverages,21.08,3,3.16,66.402,2/9/2019,10:25,Cash,63.24,68.3
+603-07-0961,C,Los Angeles,Member,Male,Electronic accessories,74.79,5,18.7,392.6475,1/10/2019,11:34,Cash,373.95,523.53
+704-20-4138,C,Los Angeles,Member,Female,Health and beauty,29.67,7,10.38,218.0745,3/11/2019,18:58,Credit card,207.69,280.38
+787-15-1757,C,Los Angeles,Member,Male,Health and beauty,44.07,4,8.81,185.094,2/18/2019,16:28,Ewallet,176.28,237.98
+649-11-3678,C,Los Angeles,Normal,Female,Food and beverages,22.93,9,10.32,216.6885,2/26/2019,20:26,Cash,206.37,222.88
+622-20-1945,C,Los Angeles,Normal,Female,Health and beauty,39.42,1,1.97,41.391,1/18/2019,15:08,Cash,39.42,53.22
+372-94-8041,A,New York,Normal,Male,Health and beauty,15.26,6,4.58,96.138,2/15/2019,18:03,Ewallet,91.56,123.61
+563-91-7120,A,New York,Normal,Female,Food and beverages,61.77,5,15.44,324.2925,3/8/2019,13:21,Cash,308.85,333.56
+746-54-5508,A,New York,Normal,Male,Home and lifestyle,21.52,6,6.46,135.576,1/17/2019,12:48,Credit card,129.12,174.31
+276-54-0879,B,San Francisco,Normal,Male,Food and beverages,97.74,4,19.55,410.508,3/12/2019,19:53,Ewallet,390.96,422.24
+815-11-1168,A,New York,Member,Male,Food and beverages,99.78,5,24.95,523.845,3/9/2019,19:09,Cash,498.9,538.81
+719-76-3868,C,Los Angeles,Member,Male,Food and beverages,94.26,4,18.85,395.892,3/12/2019,16:30,Cash,377.04,407.2
+730-61-8757,B,San Francisco,Member,Male,Health and beauty,51.13,4,10.23,214.746,1/25/2019,10:11,Credit card,204.52,276.1
+340-66-0321,A,New York,Member,Male,Electronic accessories,36.36,4,7.27,152.712,3/25/2019,13:07,Cash,145.44,203.62
+868-81-1752,B,San Francisco,Normal,Male,Home and lifestyle,22.02,9,9.91,208.089,2/7/2019,18:48,Cash,198.18,267.54
+634-97-8956,A,New York,Normal,Male,Food and beverages,32.9,3,4.94,103.635,2/17/2019,17:27,Credit card,98.7,106.6
+566-71-1091,A,New York,Normal,Male,Food and beverages,77.02,5,19.26,404.355,2/3/2019,15:59,Cash,385.1,415.91
+442-48-3607,A,New York,Member,Male,Food and beverages,23.48,2,2.35,49.308,3/14/2019,11:21,Credit card,46.96,50.72
+835-16-0096,C,Los Angeles,Member,Male,Food and beverages,14.7,5,3.68,77.175,3/24/2019,13:48,Ewallet,73.5,79.38
+527-09-6272,A,New York,Member,Female,Electronic accessories,28.45,5,7.11,149.3625,3/21/2019,10:17,Credit card,142.25,199.15
+898-04-2717,A,New York,Normal,Male,Food and beverages,76.4,9,34.38,721.98,3/19/2019,15:49,Ewallet,687.6,742.61
+692-27-8933,B,San Francisco,Normal,Female,Food and beverages,57.95,6,17.39,365.085,2/24/2019,13:02,Cash,347.7,375.52
+633-09-3463,C,Los Angeles,Normal,Female,Electronic accessories,47.65,3,7.15,150.0975,3/28/2019,12:58,Credit card,142.95,200.13
+374-17-3652,B,San Francisco,Member,Female,Food and beverages,42.82,9,19.27,404.649,2/5/2019,15:26,Credit card,385.38,416.21
+378-07-7001,B,San Francisco,Member,Male,Electronic accessories,48.09,3,7.21,151.4835,2/10/2019,18:23,Credit card,144.27,201.98
+433-75-6987,B,San Francisco,Member,Female,Health and beauty,55.97,7,19.59,411.3795,3/5/2019,19:06,Ewallet,391.79,528.92
+873-95-4984,B,San Francisco,Member,Female,Health and beauty,76.9,7,26.92,565.215,2/15/2019,20:21,Cash,538.3,726.71
+416-13-5917,C,Los Angeles,Normal,Female,Food and beverages,97.03,5,24.26,509.4075,1/30/2019,16:24,Ewallet,485.15,523.96
+150-89-8043,A,New York,Normal,Male,Food and beverages,44.65,3,6.7,140.6475,2/14/2019,15:04,Cash,133.95,144.67
+135-84-8019,A,New York,Normal,Female,Food and beverages,77.93,9,35.07,736.4385,2/27/2019,16:10,Ewallet,701.37,757.48
+441-94-7118,A,New York,Member,Male,Electronic accessories,71.95,1,3.6,75.5475,2/4/2019,12:14,Cash,71.95,100.73
+725-96-3778,C,Los Angeles,Member,Female,Home and lifestyle,89.25,8,35.7,749.7,1/20/2019,10:13,Cash,714,963.9
+531-80-1784,A,New York,Normal,Male,Electronic accessories,26.02,7,9.11,191.247,3/28/2019,17:38,Cash,182.14,255
+400-45-1220,B,San Francisco,Normal,Female,Health and beauty,13.5,10,6.75,141.75,2/27/2019,11:06,Credit card,135,182.25
+860-79-0874,C,Los Angeles,Member,Female,Food and beverages,99.3,10,49.65,1042.65,2/15/2019,14:53,Credit card,993,1072.44
+834-61-8124,A,New York,Normal,Male,Electronic accessories,51.69,7,18.09,379.9215,1/26/2019,18:22,Cash,361.83,506.56
+115-99-4379,B,San Francisco,Member,Female,Food and beverages,54.73,7,19.16,402.2655,3/14/2019,19:02,Credit card,383.11,413.76
+565-67-6697,B,San Francisco,Member,Male,Home and lifestyle,27,9,12.15,255.15,3/2/2019,14:16,Cash,243,328.05
+320-49-6392,C,Los Angeles,Normal,Female,Electronic accessories,30.24,1,1.51,31.752,3/4/2019,15:44,Cash,30.24,42.34
+889-04-9723,B,San Francisco,Member,Female,Food and beverages,89.14,4,17.83,374.388,1/7/2019,12:20,Credit card,356.56,385.08
+632-90-0281,C,Los Angeles,Normal,Female,Food and beverages,37.55,10,18.78,394.275,3/8/2019,20:01,Credit card,375.5,405.54
+554-42-2417,C,Los Angeles,Normal,Female,Food and beverages,95.44,10,47.72,1002.12,1/9/2019,13:45,Cash,954.4,1030.75
+453-63-6187,B,San Francisco,Normal,Male,Electronic accessories,27.5,3,4.13,86.625,3/1/2019,15:40,Ewallet,82.5,115.5
+578-80-7669,B,San Francisco,Normal,Male,Food and beverages,74.97,1,3.75,78.7185,3/16/2019,16:58,Cash,74.97,80.97
+612-36-5536,A,New York,Member,Male,Food and beverages,80.96,8,32.38,680.064,2/17/2019,11:12,Credit card,647.68,699.49
+605-72-4132,C,Los Angeles,Normal,Female,Food and beverages,94.47,8,37.79,793.548,2/27/2019,15:12,Cash,755.76,816.22
+471-41-2823,C,Los Angeles,Normal,Male,Food and beverages,99.79,2,9.98,209.559,3/7/2019,20:37,Ewallet,199.58,215.55
+462-67-9126,A,New York,Normal,Male,Home and lifestyle,73.22,6,21.97,461.286,1/21/2019,17:44,Cash,439.32,593.08
+272-27-9238,C,Los Angeles,Normal,Female,Food and beverages,41.24,4,8.25,173.208,2/19/2019,16:23,Cash,164.96,178.16
+834-25-9262,C,Los Angeles,Normal,Female,Food and beverages,81.68,4,16.34,343.056,1/6/2019,12:12,Cash,326.72,352.86
+122-61-9553,C,Los Angeles,Normal,Female,Electronic accessories,51.32,9,23.09,484.974,3/14/2019,19:33,Cash,461.88,646.63
+468-88-0009,A,New York,Member,Male,Home and lifestyle,65.94,4,13.19,276.948,3/24/2019,10:29,Cash,263.76,356.08
+613-59-9758,C,Los Angeles,Normal,Female,Food and beverages,14.36,10,7.18,150.78,1/27/2019,14:28,Cash,143.6,155.09
+254-31-0042,A,New York,Member,Male,Electronic accessories,21.5,9,9.68,203.175,3/6/2019,12:46,Credit card,193.5,270.9
+201-86-2184,B,San Francisco,Member,Female,Electronic accessories,26.26,7,9.19,193.011,2/2/2019,19:40,Cash,183.82,257.35
+261-12-8671,B,San Francisco,Normal,Female,Food and beverages,60.96,2,6.1,128.016,1/25/2019,19:39,Credit card,121.92,131.67
+730-70-9830,C,Los Angeles,Normal,Female,Home and lifestyle,70.11,6,21.03,441.693,3/14/2019,17:54,Ewallet,420.66,567.89
+382-25-8917,C,Los Angeles,Normal,Male,Food and beverages,42.08,6,12.62,265.104,1/29/2019,12:25,Cash,252.48,272.68
+422-29-8786,A,New York,Normal,Female,Home and lifestyle,67.09,5,16.77,352.2225,1/3/2019,16:47,Credit card,335.45,452.86
+667-23-5919,A,New York,Member,Female,Food and beverages,96.7,5,24.18,507.675,1/14/2019,12:52,Ewallet,483.5,522.18
+843-01-4703,B,San Francisco,Member,Female,Home and lifestyle,35.38,9,15.92,334.341,1/5/2019,19:50,Credit card,318.42,429.87
+743-88-1662,C,Los Angeles,Normal,Male,Food and beverages,95.49,7,33.42,701.8515,2/22/2019,18:17,Ewallet,668.43,721.9
+595-86-2894,C,Los Angeles,Member,Male,Food and beverages,96.98,4,19.4,407.316,2/6/2019,17:20,Ewallet,387.92,418.95
+182-69-8360,B,San Francisco,Normal,Female,Electronic accessories,23.65,4,4.73,99.33,1/30/2019,13:32,Credit card,94.6,132.44
+289-15-7034,A,New York,Member,Male,Food and beverages,82.33,4,16.47,345.786,1/11/2019,10:37,Credit card,329.32,355.67
+462-78-5240,C,Los Angeles,Normal,Female,Electronic accessories,26.61,2,2.66,55.881,3/19/2019,14:35,Cash,53.22,74.51
+868-52-7573,B,San Francisco,Normal,Female,Food and beverages,99.69,5,24.92,523.3725,1/14/2019,12:09,Cash,498.45,538.33
+153-58-4872,C,Los Angeles,Member,Female,Food and beverages,74.89,4,14.98,314.538,3/1/2019,15:32,Ewallet,299.56,323.52
+662-72-2873,A,New York,Normal,Female,Food and beverages,40.94,5,10.24,214.935,1/6/2019,13:58,Ewallet,204.7,221.08
+525-88-7307,B,San Francisco,Member,Male,Food and beverages,75.82,1,3.79,79.611,1/31/2019,13:19,Cash,75.82,81.89
+689-16-9784,C,Los Angeles,Normal,Male,Food and beverages,46.77,6,14.03,294.651,3/11/2019,13:37,Cash,280.62,303.07
+725-56-0833,A,New York,Normal,Female,Health and beauty,32.32,10,16.16,339.36,2/20/2019,16:49,Credit card,323.2,436.32
+394-41-0748,C,Los Angeles,Member,Female,Food and beverages,54.07,9,24.33,510.9615,1/27/2019,14:55,Ewallet,486.63,525.56
+596-42-3999,B,San Francisco,Normal,Male,Food and beverages,18.22,7,6.38,133.917,3/10/2019,14:04,Credit card,127.54,137.74
+541-89-9860,C,Los Angeles,Member,Female,Food and beverages,80.48,3,12.07,253.512,2/15/2019,12:31,Cash,241.44,260.76
+173-82-9529,B,San Francisco,Normal,Female,Food and beverages,37.95,10,18.98,398.475,1/26/2019,14:51,Cash,379.5,409.86
+563-36-9814,A,New York,Member,Male,Electronic accessories,76.82,1,3.84,80.661,2/13/2019,18:27,Ewallet,76.82,107.55
+308-47-4913,A,New York,Member,Female,Food and beverages,52.26,10,26.13,548.73,3/9/2019,12:45,Credit card,522.6,564.41
+885-17-6250,A,New York,Normal,Female,Health and beauty,79.74,1,3.99,83.727,3/6/2019,10:36,Ewallet,79.74,107.65
+726-27-2396,A,New York,Normal,Female,Health and beauty,77.5,5,19.38,406.875,1/24/2019,20:36,Ewallet,387.5,523.13
+316-01-3952,A,New York,Normal,Female,Food and beverages,54.27,5,13.57,284.9175,3/13/2019,14:16,Ewallet,271.35,293.06
+760-54-1821,B,San Francisco,Normal,Male,Home and lifestyle,13.59,9,6.12,128.4255,3/15/2019,10:26,Cash,122.31,165.12
+793-10-3222,B,San Francisco,Member,Female,Health and beauty,41.06,6,12.32,258.678,3/5/2019,13:30,Credit card,246.36,332.59
+346-12-3257,B,San Francisco,Member,Male,Electronic accessories,19.24,9,8.66,181.818,3/4/2019,16:28,Cash,173.16,242.42
+110-05-6330,C,Los Angeles,Normal,Female,Food and beverages,39.43,6,11.83,248.409,3/25/2019,20:18,Credit card,236.58,255.51
+651-61-0874,C,Los Angeles,Normal,Male,Home and lifestyle,46.22,4,9.24,194.124,3/12/2019,20:04,Credit card,184.88,249.59
+236-86-3015,C,Los Angeles,Member,Male,Home and lifestyle,13.98,1,0.7,14.679,2/4/2019,13:38,Ewallet,13.98,18.87
+831-64-0259,B,San Francisco,Normal,Female,Food and beverages,39.75,5,9.94,208.6875,2/22/2019,10:43,Ewallet,198.75,214.65
+587-03-7455,C,Los Angeles,Member,Female,Food and beverages,97.79,7,34.23,718.7565,2/16/2019,17:30,Ewallet,684.53,739.29
+882-40-4577,A,New York,Member,Male,Food and beverages,67.26,4,13.45,282.492,1/19/2019,15:28,Credit card,269.04,290.56
+732-67-5346,A,New York,Normal,Male,Food and beverages,13.79,5,3.45,72.3975,1/11/2019,19:07,Credit card,68.95,74.47
+725-32-9708,B,San Francisco,Member,Female,Food and beverages,68.71,4,13.74,288.582,1/4/2019,19:01,Cash,274.84,296.83
+256-08-8343,A,New York,Normal,Female,Home and lifestyle,56.53,4,11.31,237.426,3/4/2019,19:48,Ewallet,226.12,305.26
+372-26-1506,C,Los Angeles,Normal,Female,Food and beverages,23.82,5,5.96,125.055,1/28/2019,19:24,Ewallet,119.1,128.63
+244-08-0162,B,San Francisco,Normal,Female,Health and beauty,34.21,10,17.11,359.205,1/2/2019,13:00,Cash,342.1,461.84
+569-71-4390,B,San Francisco,Normal,Male,Food and beverages,21.87,2,2.19,45.927,1/25/2019,14:29,Ewallet,43.74,47.24
+132-23-6451,A,New York,Member,Male,Health and beauty,20.97,5,5.24,110.0925,1/4/2019,13:21,Cash,104.85,141.55
+696-90-2548,A,New York,Normal,Male,Food and beverages,25.84,3,3.88,81.396,3/10/2019,18:55,Ewallet,77.52,83.72
+472-15-9636,A,New York,Normal,Male,Home and lifestyle,50.93,8,20.37,427.812,3/22/2019,19:36,Ewallet,407.44,550.04
+268-03-6164,B,San Francisco,Normal,Male,Health and beauty,96.11,1,4.81,100.9155,1/25/2019,16:28,Ewallet,96.11,129.75
+750-57-9686,C,Los Angeles,Normal,Female,Home and lifestyle,45.38,4,9.08,190.596,1/8/2019,13:48,Credit card,181.52,245.05
+186-09-3669,C,Los Angeles,Member,Female,Health and beauty,81.51,1,4.08,85.5855,1/22/2019,10:57,Ewallet,81.51,110.04
+848-07-1692,B,San Francisco,Normal,Female,Health and beauty,57.22,2,5.72,120.162,1/12/2019,17:13,Ewallet,114.44,154.49
+745-71-3520,A,New York,Member,Female,Electronic accessories,25.22,7,8.83,185.367,2/4/2019,10:23,Cash,176.54,247.16
+266-76-6436,C,Los Angeles,Member,Female,Food and beverages,38.6,3,5.79,121.59,3/28/2019,13:57,Ewallet,115.8,125.06
+740-22-2500,C,Los Angeles,Normal,Female,Electronic accessories,84.05,3,12.61,264.7575,1/23/2019,13:29,Cash,252.15,353.01
+271-88-8734,C,Los Angeles,Member,Female,Food and beverages,97.21,10,48.61,1020.705,2/8/2019,13:00,Credit card,972.1,1049.87
+301-81-8610,B,San Francisco,Member,Male,Food and beverages,25.42,8,10.17,213.528,3/19/2019,19:42,Credit card,203.36,219.63
+489-64-4354,C,Los Angeles,Normal,Male,Food and beverages,16.28,1,0.81,17.094,3/9/2019,15:36,Cash,16.28,17.58
+198-84-7132,B,San Francisco,Member,Male,Food and beverages,40.61,9,18.27,383.7645,1/2/2019,13:40,Cash,365.49,394.73
+269-10-8440,A,New York,Member,Male,Health and beauty,53.17,7,18.61,390.7995,1/21/2019,18:01,Cash,372.19,502.46
+650-98-6268,B,San Francisco,Member,Female,Food and beverages,20.87,3,3.13,65.7405,3/20/2019,13:53,Credit card,62.61,67.62
+741-73-3559,B,San Francisco,Normal,Male,Food and beverages,67.27,5,16.82,353.1675,2/27/2019,17:27,Cash,336.35,363.26
+325-77-6186,A,New York,Member,Female,Home and lifestyle,90.65,10,45.33,951.825,3/8/2019,10:53,Ewallet,906.5,1223.78
+286-75-7818,B,San Francisco,Normal,Male,Food and beverages,69.08,2,6.91,145.068,1/31/2019,19:48,Credit card,138.16,149.21
+574-57-9721,C,Los Angeles,Normal,Male,Food and beverages,43.27,2,4.33,90.867,3/8/2019,16:53,Ewallet,86.54,93.46
+459-50-7686,A,New York,Normal,Female,Electronic accessories,23.46,6,7.04,147.798,1/13/2019,19:14,Ewallet,140.76,197.06
+616-87-0016,B,San Francisco,Normal,Male,Food and beverages,95.54,7,33.44,702.219,3/9/2019,14:36,Credit card,668.78,722.28
+837-55-7229,B,San Francisco,Normal,Female,Food and beverages,47.44,1,2.37,49.812,2/22/2019,18:19,Credit card,47.44,51.24
+751-69-0068,C,Los Angeles,Normal,Male,Food and beverages,99.24,9,44.66,937.818,3/19/2019,19:09,Ewallet,893.16,964.61
+257-73-1380,C,Los Angeles,Member,Male,Food and beverages,82.93,4,16.59,348.306,1/20/2019,16:51,Ewallet,331.72,358.26
+345-08-4992,A,New York,Normal,Male,Home and lifestyle,33.99,6,10.2,214.137,3/8/2019,15:37,Credit card,203.94,275.32
+549-96-4200,C,Los Angeles,Member,Male,Food and beverages,17.04,4,3.41,71.568,3/8/2019,20:15,Ewallet,68.16,73.61
+810-60-6344,C,Los Angeles,Normal,Female,Electronic accessories,40.86,8,16.34,343.224,2/7/2019,14:38,Credit card,326.88,457.63
+450-28-2866,C,Los Angeles,Member,Male,Food and beverages,17.44,5,4.36,91.56,1/15/2019,19:25,Cash,87.2,94.18
+394-30-3170,B,San Francisco,Member,Female,Food and beverages,88.43,8,35.37,742.812,3/22/2019,19:35,Credit card,707.44,764.04
+138-17-5109,A,New York,Member,Female,Home and lifestyle,89.21,9,40.14,843.0345,1/15/2019,15:42,Credit card,802.89,1083.9
+192-98-7397,C,Los Angeles,Normal,Male,Food and beverages,12.78,1,0.64,13.419,1/8/2019,14:11,Ewallet,12.78,13.8
+301-11-9629,A,New York,Normal,Female,Food and beverages,19.1,7,6.69,140.385,1/15/2019,10:43,Cash,133.7,144.4
+390-80-5128,B,San Francisco,Member,Female,Health and beauty,19.15,1,0.96,20.1075,1/28/2019,17:58,Credit card,19.15,25.85
+235-46-8343,C,Los Angeles,Member,Male,Food and beverages,27.66,10,13.83,290.43,2/14/2019,11:26,Credit card,276.6,298.73
+453-12-7053,C,Los Angeles,Normal,Male,Food and beverages,45.74,3,6.86,144.081,3/10/2019,17:38,Credit card,137.22,148.2
+296-11-7041,B,San Francisco,Member,Female,Health and beauty,27.07,1,1.35,28.4235,1/12/2019,20:07,Credit card,27.07,36.54
+449-27-2918,B,San Francisco,Member,Female,Food and beverages,39.12,1,1.96,41.076,3/26/2019,11:02,Credit card,39.12,42.25
+891-01-7034,B,San Francisco,Normal,Female,Electronic accessories,74.71,6,22.41,470.673,1/1/2019,19:07,Cash,448.26,627.56
+744-09-5786,B,San Francisco,Normal,Male,Electronic accessories,22.01,6,6.6,138.663,1/2/2019,18:50,Cash,132.06,184.88
+727-17-0390,A,New York,Normal,Female,Food and beverages,63.61,5,15.9,333.9525,3/16/2019,12:43,Ewallet,318.05,343.49
+568-88-3448,A,New York,Normal,Male,Health and beauty,25,1,1.25,26.25,3/3/2019,15:09,Ewallet,25,33.75
+187-83-5490,A,New York,Member,Male,Electronic accessories,20.77,4,4.15,87.234,1/31/2019,13:47,Cash,83.08,116.31
+767-54-1907,B,San Francisco,Member,Female,Food and beverages,29.56,5,7.39,155.19,2/13/2019,16:59,Cash,147.8,159.62
+710-46-4433,B,San Francisco,Member,Female,Food and beverages,77.4,9,34.83,731.43,2/15/2019,14:15,Credit card,696.6,752.33
+533-33-5337,B,San Francisco,Normal,Male,Electronic accessories,79.39,10,39.7,833.595,2/7/2019,20:24,Cash,793.9,1111.46
+325-90-8763,C,Los Angeles,Member,Female,Electronic accessories,46.57,10,23.29,488.985,1/27/2019,13:58,Cash,465.7,651.98
+729-46-7422,C,Los Angeles,Normal,Male,Food and beverages,35.89,1,1.79,37.6845,2/23/2019,16:52,Credit card,35.89,38.76
+639-76-1242,C,Los Angeles,Normal,Male,Food and beverages,40.52,5,10.13,212.73,2/3/2019,15:19,Cash,202.6,218.81
+234-03-4040,B,San Francisco,Member,Female,Food and beverages,73.05,10,36.53,767.025,3/3/2019,12:25,Credit card,730.5,788.94
+326-71-2155,C,Los Angeles,Normal,Female,Food and beverages,73.95,4,14.79,310.59,2/3/2019,10:02,Cash,295.8,319.46
+320-32-8842,C,Los Angeles,Member,Female,Food and beverages,22.62,1,1.13,23.751,3/17/2019,18:58,Cash,22.62,24.43
+470-32-9057,A,New York,Member,Male,Food and beverages,51.34,5,12.84,269.535,3/28/2019,15:31,Credit card,256.7,277.24
+878-30-2331,C,Los Angeles,Member,Female,Food and beverages,54.55,10,27.28,572.775,3/2/2019,11:22,Credit card,545.5,589.14
+440-59-5691,C,Los Angeles,Member,Female,Health and beauty,37.15,7,13,273.0525,2/8/2019,13:12,Credit card,260.05,351.07
+554-53-3790,B,San Francisco,Normal,Male,Food and beverages,37.02,6,11.11,233.226,3/22/2019,18:33,Cash,222.12,239.89
+746-19-0921,C,Los Angeles,Normal,Male,Food and beverages,21.58,1,1.08,22.659,2/9/2019,10:02,Ewallet,21.58,23.31
+233-34-0817,C,Los Angeles,Member,Female,Electronic accessories,98.84,1,4.94,103.782,2/15/2019,11:21,Cash,98.84,138.38
+767-05-1286,C,Los Angeles,Member,Female,Home and lifestyle,83.77,6,25.13,527.751,1/23/2019,12:10,Ewallet,502.62,678.54
+340-21-9136,A,New York,Member,Female,Food and beverages,40.05,4,8.01,168.21,1/25/2019,11:40,Cash,160.2,173.02
+405-31-3305,A,New York,Member,Male,Food and beverages,43.13,10,21.57,452.865,2/2/2019,18:31,Credit card,431.3,465.8
+731-59-7531,B,San Francisco,Member,Male,Health and beauty,72.57,8,29.03,609.588,3/30/2019,17:58,Cash,580.56,783.76
+676-39-6028,A,New York,Member,Female,Electronic accessories,64.44,5,16.11,338.31,3/30/2019,17:04,Cash,322.2,451.08
+502-05-1910,A,New York,Normal,Male,Health and beauty,65.18,3,9.78,205.317,2/25/2019,20:35,Credit card,195.54,263.98
+485-30-8700,A,New York,Normal,Female,Food and beverages,33.26,5,8.32,174.615,3/18/2019,16:10,Credit card,166.3,179.6
+598-47-9715,C,Los Angeles,Normal,Male,Electronic accessories,84.07,4,16.81,353.094,3/7/2019,16:54,Ewallet,336.28,470.79
+701-69-8742,B,San Francisco,Normal,Male,Food and beverages,34.37,10,17.19,360.885,3/16/2019,10:11,Ewallet,343.7,371.2
+575-67-1508,A,New York,Normal,Male,Electronic accessories,38.6,1,1.93,40.53,1/29/2019,11:26,Ewallet,38.6,54.04
+541-08-3113,C,Los Angeles,Normal,Male,Food and beverages,65.97,8,26.39,554.148,2/2/2019,20:29,Cash,527.76,569.98
+246-11-3901,C,Los Angeles,Normal,Female,Electronic accessories,32.8,10,16.4,344.4,2/15/2019,12:12,Cash,328,459.2
+674-15-9296,A,New York,Normal,Male,Food and beverages,37.14,5,9.29,194.985,1/8/2019,13:05,Ewallet,185.7,200.56
+305-18-3552,B,San Francisco,Member,Male,Home and lifestyle,60.38,10,30.19,633.99,2/12/2019,16:19,Cash,603.8,815.13
+493-65-6248,C,Los Angeles,Member,Female,Food and beverages,36.98,10,18.49,388.29,1/1/2019,19:48,Credit card,369.8,399.38
+438-01-4015,B,San Francisco,Member,Female,Food and beverages,49.49,4,9.9,207.858,3/21/2019,15:25,Ewallet,197.96,213.8
+709-58-4068,B,San Francisco,Normal,Female,Food and beverages,41.09,10,20.55,431.445,2/28/2019,14:42,Cash,410.9,443.77
+795-49-7276,A,New York,Normal,Male,Food and beverages,37.15,4,7.43,156.03,3/23/2019,18:59,Ewallet,148.6,160.49
+556-72-8512,C,Los Angeles,Normal,Male,Home and lifestyle,22.96,1,1.15,24.108,1/30/2019,20:47,Cash,22.96,31
+627-95-3243,B,San Francisco,Member,Female,Home and lifestyle,77.68,9,34.96,734.076,2/4/2019,13:21,Ewallet,699.12,943.81
+686-41-0932,B,San Francisco,Normal,Female,Food and beverages,34.7,2,3.47,72.87,3/13/2019,19:48,Ewallet,69.4,74.95
+510-09-5628,A,New York,Member,Female,Food and beverages,19.66,10,9.83,206.43,3/15/2019,18:20,Credit card,196.6,212.33
+608-04-3797,B,San Francisco,Member,Female,Health and beauty,25.32,8,10.13,212.688,3/5/2019,20:24,Ewallet,202.56,273.46
+148-82-2527,C,Los Angeles,Member,Female,Home and lifestyle,12.12,10,6.06,127.26,3/5/2019,13:44,Credit card,121.2,163.62
+437-53-3084,B,San Francisco,Normal,Male,Food and beverages,99.89,2,9.99,209.769,2/26/2019,11:48,Ewallet,199.78,215.76
+632-32-4574,B,San Francisco,Normal,Male,Food and beverages,75.92,8,30.37,637.728,3/20/2019,14:14,Cash,607.36,655.95
+556-97-7101,C,Los Angeles,Normal,Female,Electronic accessories,63.22,2,6.32,132.762,1/1/2019,15:51,Cash,126.44,177.02
+862-59-8517,C,Los Angeles,Normal,Female,Food and beverages,90.24,6,27.07,568.512,1/27/2019,11:17,Cash,541.44,584.76
+401-18-8016,B,San Francisco,Member,Female,Food and beverages,98.13,1,4.91,103.0365,1/21/2019,17:36,Cash,98.13,105.98
+420-18-8989,A,New York,Member,Female,Food and beverages,51.52,8,20.61,432.768,2/2/2019,15:47,Cash,412.16,445.13
+277-63-2961,B,San Francisco,Member,Male,Food and beverages,73.97,1,3.7,77.6685,2/3/2019,15:53,Credit card,73.97,79.89
+573-98-8548,C,Los Angeles,Member,Female,Food and beverages,31.9,1,1.6,33.495,1/5/2019,12:40,Ewallet,31.9,34.45
+620-02-2046,C,Los Angeles,Normal,Male,Home and lifestyle,69.4,2,6.94,145.74,1/27/2019,19:48,Ewallet,138.8,187.38
+282-35-2475,B,San Francisco,Normal,Female,Food and beverages,93.31,2,9.33,195.951,3/25/2019,17:53,Cash,186.62,201.55
+511-54-3087,B,San Francisco,Normal,Male,Food and beverages,88.45,1,4.42,92.8725,2/25/2019,16:36,Credit card,88.45,95.53
+726-29-6793,A,New York,Member,Male,Electronic accessories,24.18,8,9.67,203.112,1/28/2019,20:54,Ewallet,193.44,270.82
+387-49-4215,B,San Francisco,Member,Female,Food and beverages,48.5,3,7.28,152.775,1/8/2019,12:50,Cash,145.5,157.14
+862-17-9201,B,San Francisco,Normal,Female,Food and beverages,84.05,6,25.22,529.515,1/29/2019,10:48,Credit card,504.3,544.64
+291-21-5991,B,San Francisco,Member,Male,Health and beauty,61.29,5,15.32,321.7725,3/29/2019,14:28,Cash,306.45,413.71
+602-80-9671,C,Los Angeles,Member,Female,Home and lifestyle,15.95,6,4.79,100.485,2/9/2019,17:15,Credit card,95.7,129.2
+347-72-6115,B,San Francisco,Member,Female,Food and beverages,90.74,7,31.76,666.939,1/16/2019,18:03,Credit card,635.18,685.99
+209-61-0206,A,New York,Normal,Female,Home and lifestyle,42.91,5,10.73,225.2775,1/5/2019,17:29,Ewallet,214.55,289.64
+595-27-4851,A,New York,Normal,Female,Food and beverages,54.28,7,19,398.958,1/27/2019,18:05,Ewallet,379.96,410.36
+189-52-0236,A,New York,Normal,Male,Electronic accessories,99.55,7,34.84,731.6925,3/14/2019,12:07,Cash,696.85,975.59
+503-07-0930,C,Los Angeles,Member,Male,Food and beverages,58.39,7,20.44,429.1665,2/23/2019,19:49,Credit card,408.73,441.43
+413-20-6708,C,Los Angeles,Member,Female,Food and beverages,51.47,1,2.57,54.0435,3/18/2019,15:52,Ewallet,51.47,55.59
+425-85-2085,B,San Francisco,Member,Male,Health and beauty,54.86,5,13.72,288.015,3/29/2019,16:48,Ewallet,274.3,370.31
+521-18-7827,C,Los Angeles,Member,Male,Home and lifestyle,39.39,5,9.85,206.7975,1/22/2019,20:46,Credit card,196.95,265.88
+220-28-1851,A,New York,Normal,Male,Home and lifestyle,34.73,2,3.47,72.933,3/1/2019,18:14,Ewallet,69.46,93.77
+600-38-9738,C,Los Angeles,Member,Male,Food and beverages,71.92,5,17.98,377.58,1/17/2019,15:05,Credit card,359.6,388.37
+734-91-1155,B,San Francisco,Normal,Female,Electronic accessories,45.71,3,6.86,143.9865,3/26/2019,10:34,Credit card,137.13,191.98
+451-28-5717,C,Los Angeles,Member,Female,Home and lifestyle,83.17,6,24.95,523.971,3/20/2019,11:23,Cash,499.02,673.68
+609-81-8548,A,New York,Member,Female,Home and lifestyle,37.44,6,11.23,235.872,2/6/2019,13:55,Credit card,224.64,303.26
+133-14-7229,C,Los Angeles,Normal,Male,Health and beauty,62.87,2,6.29,132.027,1/1/2019,11:43,Cash,125.74,169.75
+534-01-4457,A,New York,Normal,Male,Food and beverages,81.71,6,24.51,514.773,1/27/2019,14:36,Credit card,490.26,529.48
+719-89-8991,A,New York,Member,Female,Food and beverages,91.41,5,22.85,479.9025,2/25/2019,16:03,Ewallet,457.05,493.61
+286-62-6248,B,San Francisco,Normal,Male,Food and beverages,39.21,4,7.84,164.682,1/16/2019,20:03,Credit card,156.84,169.39
+339-38-9982,B,San Francisco,Member,Male,Food and beverages,59.86,2,5.99,125.706,1/13/2019,14:55,Ewallet,119.72,129.3
+827-44-5872,B,San Francisco,Member,Female,Food and beverages,54.36,10,27.18,570.78,2/7/2019,11:28,Credit card,543.6,587.09
+827-77-7633,A,New York,Normal,Male,Food and beverages,98.09,9,44.14,926.9505,2/17/2019,19:41,Cash,882.81,953.43
+287-83-1405,A,New York,Normal,Male,Health and beauty,25.43,6,7.63,160.209,2/12/2019,19:01,Ewallet,152.58,205.98
+435-13-4908,A,New York,Member,Male,Food and beverages,86.68,8,34.67,728.112,1/24/2019,18:04,Credit card,693.44,748.92
+857-67-9057,B,San Francisco,Normal,Male,Electronic accessories,22.95,10,11.48,240.975,2/6/2019,19:20,Ewallet,229.5,321.3
+236-27-1144,C,Los Angeles,Normal,Female,Food and beverages,16.31,9,7.34,154.1295,3/26/2019,10:31,Ewallet,146.79,158.53
+892-05-6689,A,New York,Normal,Female,Home and lifestyle,28.32,5,7.08,148.68,3/11/2019,13:28,Ewallet,141.6,191.16
+583-41-4548,C,Los Angeles,Normal,Male,Home and lifestyle,16.67,7,5.83,122.5245,2/7/2019,11:36,Ewallet,116.69,157.53
+339-12-4827,B,San Francisco,Member,Female,Food and beverages,73.96,1,3.7,77.658,1/5/2019,11:32,Credit card,73.96,79.88
+643-38-7867,A,New York,Normal,Male,Home and lifestyle,97.94,1,4.9,102.837,3/7/2019,11:44,Ewallet,97.94,132.22
+308-81-0538,A,New York,Normal,Female,Food and beverages,73.05,4,14.61,306.81,2/25/2019,17:16,Credit card,292.2,315.58
+358-88-9262,C,Los Angeles,Member,Female,Food and beverages,87.48,6,26.24,551.124,2/1/2019,18:43,Ewallet,524.88,566.87
+460-35-4390,A,New York,Normal,Male,Home and lifestyle,30.68,3,4.6,96.642,1/22/2019,11:00,Ewallet,92.04,124.25
+343-87-0864,C,Los Angeles,Member,Male,Health and beauty,75.88,1,3.79,79.674,1/3/2019,10:30,Credit card,75.88,102.44
+173-50-1108,B,San Francisco,Member,Female,Food and beverages,20.18,4,4.04,84.756,2/13/2019,12:14,Credit card,80.72,87.18
+243-47-2663,C,Los Angeles,Member,Male,Electronic accessories,18.77,6,5.63,118.251,1/28/2019,16:43,Credit card,112.62,157.67
+841-18-8232,B,San Francisco,Normal,Female,Food and beverages,71.2,1,3.56,74.76,1/5/2019,20:40,Credit card,71.2,76.9
+701-23-5550,B,San Francisco,Member,Male,Home and lifestyle,38.81,4,7.76,163.002,3/19/2019,13:40,Ewallet,155.24,209.57
+647-50-1224,A,New York,Normal,Female,Food and beverages,29.42,10,14.71,308.91,1/12/2019,16:23,Ewallet,294.2,317.74
+541-48-8554,A,New York,Normal,Male,Food and beverages,60.95,9,27.43,575.9775,1/7/2019,12:08,Credit card,548.55,592.43
+539-21-7227,B,San Francisco,Normal,Female,Food and beverages,51.54,5,12.89,270.585,1/26/2019,17:45,Cash,257.7,278.32
+213-32-1216,A,New York,Normal,Female,Electronic accessories,66.06,6,19.82,416.178,1/23/2019,10:28,Cash,396.36,554.9
+747-58-7183,B,San Francisco,Normal,Male,Food and beverages,57.27,3,8.59,180.4005,2/9/2019,20:31,Ewallet,171.81,185.55
+582-52-8065,B,San Francisco,Normal,Female,Food and beverages,54.31,9,24.44,513.2295,2/22/2019,10:49,Cash,488.79,527.89
+210-57-1719,B,San Francisco,Normal,Female,Health and beauty,58.24,9,26.21,550.368,2/5/2019,12:34,Cash,524.16,707.62
+399-69-4630,C,Los Angeles,Normal,Male,Electronic accessories,22.21,6,6.66,139.923,3/7/2019,10:23,Credit card,133.26,186.56
+134-75-2619,A,New York,Member,Male,Electronic accessories,19.32,7,6.76,142.002,3/25/2019,18:51,Cash,135.24,189.34
+356-44-8813,B,San Francisco,Normal,Male,Home and lifestyle,37.48,3,5.62,118.062,1/20/2019,13:45,Credit card,112.44,151.79
+198-66-9832,B,San Francisco,Member,Female,Food and beverages,72.04,2,7.2,151.284,2/4/2019,19:38,Cash,144.08,155.61
+283-26-5248,C,Los Angeles,Member,Female,Food and beverages,98.52,10,49.26,1034.46,1/30/2019,20:23,Ewallet,985.2,1064.02
+712-39-0363,A,New York,Member,Male,Food and beverages,41.66,6,12.5,262.458,1/2/2019,15:24,Ewallet,249.96,269.96
+218-59-9410,A,New York,Member,Female,Home and lifestyle,72.42,3,10.86,228.123,3/29/2019,16:54,Ewallet,217.26,293.3
+174-75-0888,B,San Francisco,Normal,Male,Electronic accessories,21.58,9,9.71,203.931,3/14/2019,12:32,Cash,194.22,271.91
+866-99-7614,C,Los Angeles,Normal,Male,Food and beverages,89.2,10,44.6,936.6,2/11/2019,15:42,Credit card,892,963.36
+134-54-4720,B,San Francisco,Normal,Female,Electronic accessories,42.42,8,16.97,356.328,1/30/2019,13:58,Ewallet,339.36,475.1
+760-90-2357,A,New York,Member,Male,Electronic accessories,74.51,6,22.35,469.413,3/20/2019,15:08,Ewallet,447.06,625.88
+514-37-2845,B,San Francisco,Normal,Male,Food and beverages,99.25,2,9.93,208.425,3/20/2019,13:02,Cash,198.5,214.38
+698-98-5964,A,New York,Normal,Female,Food and beverages,81.21,10,40.61,852.705,1/17/2019,13:01,Credit card,812.1,877.07
+718-57-9773,C,Los Angeles,Normal,Female,Food and beverages,49.33,10,24.67,517.965,2/3/2019,16:40,Credit card,493.3,532.76
+651-88-7328,A,New York,Normal,Female,Food and beverages,65.74,9,29.58,621.243,1/1/2019,13:55,Cash,591.66,638.99
+241-11-2261,B,San Francisco,Normal,Female,Food and beverages,79.86,7,27.95,586.971,1/10/2019,10:33,Credit card,559.02,603.74
+408-26-9866,C,Los Angeles,Normal,Female,Food and beverages,73.98,7,25.89,543.753,3/2/2019,16:42,Ewallet,517.86,559.29
+834-83-1826,B,San Francisco,Member,Female,Home and lifestyle,82.04,5,20.51,430.71,2/25/2019,17:16,Credit card,410.2,553.77
+343-61-3544,B,San Francisco,Member,Male,Food and beverages,26.67,10,13.34,280.035,1/29/2019,11:48,Cash,266.7,288.04
+239-48-4278,A,New York,Member,Male,Food and beverages,10.13,7,3.55,74.4555,3/10/2019,19:35,Ewallet,70.91,76.58
+355-34-6244,B,San Francisco,Normal,Male,Food and beverages,72.39,2,7.24,152.019,1/13/2019,19:55,Credit card,144.78,156.36
+550-84-8664,A,New York,Normal,Male,Food and beverages,85.91,5,21.48,451.0275,3/22/2019,14:33,Credit card,429.55,463.91
+339-96-8318,B,San Francisco,Member,Male,Food and beverages,81.31,7,28.46,597.6285,3/1/2019,19:49,Ewallet,569.17,614.7
+458-61-0011,B,San Francisco,Normal,Male,Food and beverages,60.3,4,12.06,253.26,2/20/2019,18:43,Cash,241.2,260.5
+592-34-6155,C,Los Angeles,Normal,Male,Food and beverages,31.77,4,6.35,133.434,1/14/2019,14:43,Ewallet,127.08,137.25
+797-88-0493,A,New York,Normal,Female,Health and beauty,64.27,4,12.85,269.934,3/26/2019,13:54,Cash,257.08,347.06
+207-73-1363,B,San Francisco,Normal,Male,Health and beauty,69.51,2,6.95,145.971,3/1/2019,12:15,Ewallet,139.02,187.68
+390-31-6381,C,Los Angeles,Normal,Male,Food and beverages,27.22,3,4.08,85.743,1/7/2019,12:37,Cash,81.66,88.19
+443-82-0585,A,New York,Member,Female,Health and beauty,77.68,4,15.54,326.256,2/1/2019,19:54,Cash,310.72,419.47
+339-18-7061,C,Los Angeles,Member,Female,Food and beverages,92.98,2,9.3,195.258,2/13/2019,15:06,Credit card,185.96,200.84
+359-90-3665,B,San Francisco,Member,Female,Food and beverages,18.08,4,3.62,75.936,1/14/2019,18:03,Credit card,72.32,78.11
+375-72-3056,B,San Francisco,Normal,Male,Food and beverages,63.06,3,9.46,198.639,1/19/2019,15:58,Ewallet,189.18,204.31
+127-47-6963,A,New York,Normal,Male,Health and beauty,51.71,4,10.34,217.182,3/9/2019,13:53,Credit card,206.84,279.23
+278-86-2735,A,New York,Normal,Female,Food and beverages,52.34,3,7.85,164.871,3/27/2019,14:03,Cash,157.02,169.58
+695-28-6250,A,New York,Normal,Female,Food and beverages,43.06,5,10.77,226.065,2/4/2019,16:38,Ewallet,215.3,232.52
+379-17-6588,C,Los Angeles,Normal,Male,Food and beverages,59.61,10,29.81,625.905,3/14/2019,11:07,Cash,596.1,643.79
+227-50-3718,A,New York,Normal,Male,Health and beauty,14.62,5,3.66,76.755,3/4/2019,12:23,Cash,73.1,98.69
+302-15-2162,C,Los Angeles,Member,Male,Health and beauty,46.53,6,13.96,293.139,3/3/2019,10:54,Credit card,279.18,376.89
+788-07-8452,C,Los Angeles,Member,Female,Home and lifestyle,24.24,7,8.48,178.164,1/27/2019,17:38,Ewallet,169.68,229.07
+560-49-6611,A,New York,Member,Female,Food and beverages,45.58,1,2.28,47.859,2/7/2019,14:13,Cash,45.58,49.23
+880-35-0356,A,New York,Member,Female,Food and beverages,75.2,3,11.28,236.88,2/5/2019,11:51,Ewallet,225.6,243.65
+585-11-6748,B,San Francisco,Member,Male,Food and beverages,96.8,3,14.52,304.92,3/15/2019,13:05,Cash,290.4,313.63
+470-31-3286,B,San Francisco,Normal,Male,Health and beauty,14.82,3,2.22,46.683,3/1/2019,11:30,Credit card,44.46,60.02
+152-68-2907,A,New York,Normal,Male,Food and beverages,52.2,3,7.83,164.43,2/15/2019,13:30,Credit card,156.6,169.13
+123-35-4896,C,Los Angeles,Normal,Female,Food and beverages,46.66,9,21,440.937,2/17/2019,19:11,Ewallet,419.94,453.54
+258-69-7810,C,Los Angeles,Normal,Female,Food and beverages,36.85,5,9.21,193.4625,1/26/2019,18:53,Cash,184.25,198.99
+334-64-2006,A,New York,Member,Female,Home and lifestyle,70.32,2,7.03,147.672,3/24/2019,14:22,Ewallet,140.64,189.86
+219-61-4139,C,Los Angeles,Normal,Male,Electronic accessories,83.08,1,4.15,87.234,1/23/2019,17:16,Ewallet,83.08,116.31
+881-41-7302,C,Los Angeles,Normal,Female,Food and beverages,64.99,1,3.25,68.2395,1/26/2019,10:06,Credit card,64.99,70.19
+373-09-4567,C,Los Angeles,Normal,Male,Food and beverages,77.56,10,38.78,814.38,3/14/2019,20:35,Ewallet,775.6,837.65
+642-30-6693,B,San Francisco,Normal,Female,Food and beverages,54.51,6,16.35,343.413,3/17/2019,13:54,Ewallet,327.06,353.22
+484-22-8230,C,Los Angeles,Member,Female,Food and beverages,51.89,7,18.16,381.3915,1/8/2019,20:08,Cash,363.23,392.29
+830-58-2383,B,San Francisco,Normal,Male,Home and lifestyle,31.75,4,6.35,133.35,2/8/2019,15:26,Cash,127,171.45
+559-98-9873,A,New York,Member,Female,Food and beverages,53.65,7,18.78,394.3275,2/10/2019,12:56,Ewallet,375.55,405.59
+544-32-5024,C,Los Angeles,Member,Female,Food and beverages,49.79,4,9.96,209.118,3/28/2019,19:16,Credit card,199.16,215.09
+318-12-0304,A,New York,Normal,Male,Food and beverages,30.61,1,1.53,32.1405,1/23/2019,12:20,Ewallet,30.61,33.06
+349-97-8902,B,San Francisco,Member,Male,Food and beverages,57.89,2,5.79,121.569,1/17/2019,10:37,Ewallet,115.78,125.04
+421-95-9805,A,New York,Normal,Female,Electronic accessories,28.96,1,1.45,30.408,2/7/2019,10:18,Credit card,28.96,40.54
+277-35-5865,C,Los Angeles,Member,Female,Food and beverages,98.97,9,44.54,935.2665,3/9/2019,11:23,Cash,890.73,961.99
+789-23-8625,B,San Francisco,Member,Male,Food and beverages,93.22,3,13.98,293.643,1/24/2019,11:45,Cash,279.66,302.03
+284-54-4231,C,Los Angeles,Member,Male,Food and beverages,80.93,1,4.05,84.9765,1/19/2019,16:08,Credit card,80.93,87.4
+443-59-0061,A,New York,Member,Male,Food and beverages,67.45,10,33.73,708.225,2/3/2019,11:25,Ewallet,674.5,728.46
+509-29-3912,A,New York,Member,Female,Food and beverages,38.72,9,17.42,365.904,3/20/2019,12:24,Ewallet,348.48,376.36
+327-40-9673,B,San Francisco,Member,Male,Food and beverages,72.6,6,21.78,457.38,1/13/2019,19:51,Cash,435.6,470.45
+840-19-2096,C,Los Angeles,Member,Male,Electronic accessories,87.91,5,21.98,461.5275,3/14/2019,18:10,Ewallet,439.55,615.37
+828-46-6863,A,New York,Member,Male,Food and beverages,98.53,6,29.56,620.739,1/23/2019,11:22,Credit card,591.18,638.47
+641-96-3695,C,Los Angeles,Member,Female,Food and beverages,43.46,6,13.04,273.798,2/7/2019,17:55,Ewallet,260.76,281.62
+420-97-3340,A,New York,Normal,Female,Food and beverages,71.68,3,10.75,225.792,3/28/2019,15:30,Credit card,215.04,232.24
+436-54-4512,A,New York,Member,Female,Food and beverages,91.61,1,4.58,96.1905,3/20/2019,19:44,Cash,91.61,98.94
+670-79-6321,B,San Francisco,Member,Female,Home and lifestyle,94.59,7,33.11,695.2365,1/17/2019,15:27,Credit card,662.13,893.88
+852-62-7105,B,San Francisco,Normal,Female,Food and beverages,83.25,10,41.63,874.125,1/12/2019,11:25,Credit card,832.5,899.1
+598-06-7312,B,San Francisco,Member,Male,Food and beverages,91.35,1,4.57,95.9175,2/16/2019,15:42,Cash,91.35,98.66
+135-13-8269,B,San Francisco,Member,Female,Food and beverages,78.88,2,7.89,165.648,1/26/2019,16:04,Cash,157.76,170.38
+816-57-2053,A,New York,Normal,Male,Food and beverages,60.87,2,6.09,127.827,3/9/2019,12:37,Ewallet,121.74,131.48
+628-90-8624,B,San Francisco,Member,Male,Health and beauty,82.58,10,41.29,867.09,3/14/2019,14:41,Cash,825.8,1114.83
+856-66-2701,A,New York,Member,Male,Home and lifestyle,53.3,3,8,167.895,1/25/2019,14:19,Ewallet,159.9,215.87
+308-39-1707,A,New York,Normal,Female,Food and beverages,12.09,1,0.6,12.6945,1/26/2019,18:19,Credit card,12.09,13.06
+149-61-1929,A,New York,Normal,Male,Food and beverages,64.19,10,32.1,673.995,1/19/2019,14:08,Credit card,641.9,693.25
+655-07-2265,A,New York,Normal,Male,Electronic accessories,78.31,3,11.75,246.6765,3/5/2019,16:38,Ewallet,234.93,328.9
+589-02-8023,A,New York,Member,Male,Food and beverages,83.77,2,8.38,175.917,1/15/2019,10:54,Credit card,167.54,180.94
+420-04-7590,B,San Francisco,Normal,Male,Home and lifestyle,99.7,3,14.96,314.055,3/18/2019,11:29,Ewallet,299.1,403.79
+182-88-2763,B,San Francisco,Member,Male,Food and beverages,79.91,3,11.99,251.7165,3/20/2019,19:28,Credit card,239.73,258.91
+188-55-0967,B,San Francisco,Member,Male,Health and beauty,66.47,10,33.24,697.935,1/15/2019,15:01,Credit card,664.7,897.35
+610-46-4100,A,New York,Normal,Male,Health and beauty,28.95,7,10.13,212.7825,3/3/2019,20:31,Credit card,202.65,273.58
+318-81-2368,C,Los Angeles,Normal,Female,Electronic accessories,46.2,1,2.31,48.51,3/19/2019,12:16,Cash,46.2,64.68
+364-33-8584,B,San Francisco,Member,Female,Food and beverages,17.63,5,4.41,92.5575,3/8/2019,15:27,Cash,88.15,95.2
+665-63-9737,B,San Francisco,Normal,Male,Food and beverages,52.42,3,7.86,165.123,2/27/2019,17:36,Ewallet,157.26,169.84
+695-09-5146,B,San Francisco,Member,Female,Food and beverages,98.79,3,14.82,311.1885,2/23/2019,20:00,Ewallet,296.37,320.08
+155-45-3814,C,Los Angeles,Member,Female,Electronic accessories,88.55,8,35.42,743.82,3/19/2019,15:29,Ewallet,708.4,991.76
+794-32-2436,B,San Francisco,Member,Male,Electronic accessories,55.67,2,5.57,116.907,3/27/2019,15:08,Ewallet,111.34,155.88
+131-15-8856,C,Los Angeles,Member,Female,Food and beverages,72.52,8,29.01,609.168,3/30/2019,19:26,Credit card,580.16,626.57
+273-84-2164,C,Los Angeles,Member,Male,Electronic accessories,12.05,5,3.01,63.2625,2/16/2019,15:53,Ewallet,60.25,84.35
+706-36-6154,A,New York,Member,Male,Home and lifestyle,19.36,9,8.71,182.952,1/18/2019,18:43,Ewallet,174.24,235.22
+778-89-7974,C,Los Angeles,Normal,Male,Health and beauty,70.21,6,21.06,442.323,3/30/2019,14:58,Cash,421.26,568.7
+574-31-8277,B,San Francisco,Member,Male,Food and beverages,33.63,1,1.68,35.3115,3/20/2019,19:55,Cash,33.63,36.32
+859-71-0933,C,Los Angeles,Member,Female,Food and beverages,15.49,2,1.55,32.529,1/16/2019,15:10,Cash,30.98,33.46
+740-11-5257,C,Los Angeles,Normal,Male,Electronic accessories,24.74,10,12.37,259.77,2/24/2019,16:44,Cash,247.4,346.36
+369-82-2676,B,San Francisco,Normal,Male,Electronic accessories,75.66,5,18.92,397.215,1/15/2019,18:22,Ewallet,378.3,529.62
+563-47-4072,B,San Francisco,Normal,Female,Health and beauty,55.81,6,16.74,351.603,1/22/2019,11:52,Cash,334.86,452.06
+742-04-5161,A,New York,Member,Male,Home and lifestyle,72.78,10,36.39,764.19,2/3/2019,17:24,Cash,727.8,982.53
+149-15-7606,B,San Francisco,Member,Male,Food and beverages,37.32,9,16.79,352.674,3/6/2019,15:31,Ewallet,335.88,362.75
+133-77-3154,B,San Francisco,Member,Male,Food and beverages,60.18,4,12.04,252.756,2/16/2019,18:04,Credit card,240.72,259.98
+169-52-4504,A,New York,Normal,Female,Electronic accessories,15.69,3,2.35,49.4235,3/14/2019,14:13,Credit card,47.07,65.9
+250-81-7186,C,Los Angeles,Normal,Female,Electronic accessories,99.69,1,4.98,104.6745,2/27/2019,10:23,Credit card,99.69,139.57
+562-12-5430,A,New York,Member,Female,Food and beverages,88.15,3,13.22,277.6725,1/18/2019,10:11,Ewallet,264.45,285.61
+816-72-8853,A,New York,Member,Female,Food and beverages,27.93,5,6.98,146.6325,1/29/2019,15:48,Cash,139.65,150.82
+491-38-3499,A,New York,Member,Male,Food and beverages,55.45,1,2.77,58.2225,2/26/2019,17:46,Credit card,55.45,59.89
+322-02-2271,B,San Francisco,Normal,Female,Food and beverages,42.97,3,6.45,135.3555,2/3/2019,11:46,Cash,128.91,139.22
+842-29-4695,C,Los Angeles,Member,Male,Food and beverages,17.14,7,6,125.979,1/16/2019,12:07,Credit card,119.98,129.58
+725-67-2480,B,San Francisco,Member,Female,Food and beverages,58.75,6,17.63,370.125,3/24/2019,18:14,Credit card,352.5,380.7
+641-51-2661,C,Los Angeles,Member,Female,Food and beverages,87.1,10,43.55,914.55,2/12/2019,14:45,Credit card,871,940.68
+714-02-3114,C,Los Angeles,Normal,Female,Food and beverages,98.8,2,9.88,207.48,2/21/2019,11:39,Cash,197.6,213.41
+518-17-2983,A,New York,Normal,Female,Food and beverages,48.63,4,9.73,204.246,2/4/2019,15:44,Ewallet,194.52,210.08
+779-42-2410,B,San Francisco,Member,Male,Food and beverages,57.74,3,8.66,181.881,2/20/2019,13:06,Ewallet,173.22,187.08
+190-14-3147,B,San Francisco,Normal,Female,Health and beauty,17.97,4,3.59,75.474,2/23/2019,20:43,Ewallet,71.88,97.04
+408-66-6712,C,Los Angeles,Member,Female,Health and beauty,47.71,6,14.31,300.573,2/16/2019,14:19,Ewallet,286.26,386.45
+679-22-6530,B,San Francisco,Normal,Female,Food and beverages,40.62,2,4.06,85.302,1/17/2019,10:01,Credit card,81.24,87.74
+588-47-8641,A,New York,Member,Male,Food and beverages,56.04,10,28.02,588.42,1/14/2019,19:30,Ewallet,560.4,605.23
+642-61-4706,B,San Francisco,Member,Male,Food and beverages,93.4,2,9.34,196.14,3/30/2019,16:34,Cash,186.8,201.74
+576-31-4774,B,San Francisco,Normal,Female,Health and beauty,73.41,3,11.01,231.2415,3/2/2019,13:10,Ewallet,220.23,297.31
+556-41-6224,C,Los Angeles,Normal,Male,Health and beauty,33.64,8,13.46,282.576,2/15/2019,17:10,Credit card,269.12,363.31
+811-03-8790,A,New York,Normal,Female,Electronic accessories,45.48,10,22.74,477.54,3/1/2019,10:22,Credit card,454.8,636.72
+242-11-3142,B,San Francisco,Member,Male,Food and beverages,83.77,2,8.38,175.917,2/24/2019,19:57,Cash,167.54,180.94
+752-23-3760,B,San Francisco,Member,Female,Food and beverages,64.08,7,22.43,470.988,2/19/2019,19:29,Credit card,448.56,484.44
+274-05-5470,A,New York,Member,Female,Food and beverages,73.47,4,14.69,308.574,2/23/2019,18:30,Cash,293.88,317.39
+648-94-3045,C,Los Angeles,Normal,Male,Health and beauty,58.95,10,29.48,618.975,2/7/2019,14:27,Ewallet,589.5,795.83
+130-67-4723,A,New York,Member,Male,Food and beverages,48.5,6,14.55,305.55,1/11/2019,13:57,Ewallet,291,314.28
+528-87-5606,B,San Francisco,Member,Female,Electronic accessories,39.48,1,1.97,41.454,2/12/2019,19:43,Cash,39.48,55.27
+320-85-2052,B,San Francisco,Normal,Female,Food and beverages,34.81,1,1.74,36.5505,1/14/2019,10:11,Credit card,34.81,37.59
+370-96-0655,C,Los Angeles,Normal,Female,Food and beverages,49.32,6,14.8,310.716,1/9/2019,13:46,Ewallet,295.92,319.59
+105-10-6182,A,New York,Member,Male,Food and beverages,21.48,2,2.15,45.108,2/27/2019,12:22,Ewallet,42.96,46.4
+510-79-0415,B,San Francisco,Member,Female,Food and beverages,23.08,6,6.92,145.404,1/24/2019,19:20,Ewallet,138.48,149.56
+241-96-5076,B,San Francisco,Member,Female,Home and lifestyle,49.1,2,4.91,103.11,1/8/2019,12:58,Credit card,98.2,132.57
+767-97-4650,B,San Francisco,Member,Female,Food and beverages,64.83,2,6.48,136.143,1/8/2019,11:59,Credit card,129.66,140.03
+648-83-1321,A,New York,Member,Male,Home and lifestyle,63.56,10,31.78,667.38,1/16/2019,17:59,Cash,635.6,858.06
+173-57-2300,C,Los Angeles,Member,Male,Food and beverages,72.88,2,7.29,153.048,3/13/2019,12:51,Cash,145.76,157.42
+305-03-2383,A,New York,Normal,Female,Food and beverages,67.1,3,10.07,211.365,2/15/2019,10:36,Cash,201.3,217.4
+394-55-6384,C,Los Angeles,Member,Female,Food and beverages,70.19,9,31.59,663.2955,1/25/2019,13:38,Cash,631.71,682.25
+266-20-6657,C,Los Angeles,Member,Male,Food and beverages,55.04,7,19.26,404.544,3/12/2019,19:39,Ewallet,385.28,416.1
+689-05-1884,A,New York,Member,Male,Health and beauty,48.63,10,24.32,510.615,3/4/2019,12:44,Cash,486.3,656.51
+196-01-2849,C,Los Angeles,Member,Female,Food and beverages,73.38,7,25.68,539.343,2/10/2019,13:56,Cash,513.66,554.75
+372-62-5264,C,Los Angeles,Normal,Female,Food and beverages,52.6,9,23.67,497.07,1/16/2019,14:42,Cash,473.4,511.27
+800-09-8606,A,New York,Member,Female,Home and lifestyle,87.37,5,21.84,458.6925,1/29/2019,19:45,Cash,436.85,589.75
+182-52-7000,A,New York,Member,Female,Food and beverages,27.04,4,5.41,113.568,1/1/2019,20:26,Ewallet,108.16,116.81
+826-58-8051,B,San Francisco,Normal,Male,Home and lifestyle,62.19,4,12.44,261.198,1/6/2019,19:46,Ewallet,248.76,335.83
+868-06-0466,A,New York,Member,Male,Electronic accessories,69.58,9,31.31,657.531,2/19/2019,19:38,Credit card,626.22,876.71
+751-41-9720,C,Los Angeles,Normal,Male,Home and lifestyle,97.5,10,48.75,1023.75,1/12/2019,16:18,Ewallet,975,1316.25
+626-43-7888,C,Los Angeles,Normal,Female,Food and beverages,60.41,8,24.16,507.444,2/7/2019,12:23,Ewallet,483.28,521.94
+176-64-7711,B,San Francisco,Normal,Male,Food and beverages,32.32,3,4.85,101.808,3/27/2019,19:11,Credit card,96.96,104.72
+191-29-0321,B,San Francisco,Member,Female,Food and beverages,19.77,10,9.89,207.585,2/27/2019,18:57,Credit card,197.7,213.52
+729-06-2010,B,San Francisco,Member,Male,Health and beauty,80.47,9,36.21,760.4415,1/6/2019,11:18,Cash,724.23,977.71
+640-48-5028,B,San Francisco,Member,Female,Home and lifestyle,88.39,9,39.78,835.2855,3/2/2019,12:40,Cash,795.51,1073.94
+186-79-9562,B,San Francisco,Normal,Male,Health and beauty,71.77,7,25.12,527.5095,3/29/2019,14:06,Cash,502.39,678.23
+834-45-5519,B,San Francisco,Normal,Female,Electronic accessories,43,4,8.6,180.6,1/31/2019,20:48,Ewallet,172,240.8
+162-65-8559,C,Los Angeles,Member,Male,Food and beverages,68.98,1,3.45,72.429,1/21/2019,20:13,Cash,68.98,74.5
+760-27-5490,C,Los Angeles,Normal,Male,Food and beverages,15.62,8,6.25,131.208,1/20/2019,20:37,Ewallet,124.96,134.96
+445-30-9252,A,New York,Normal,Male,Food and beverages,25.7,3,3.86,80.955,1/17/2019,17:59,Ewallet,77.1,83.27
+786-94-2700,A,New York,Member,Male,Food and beverages,80.62,6,24.19,507.906,2/28/2019,20:18,Cash,483.72,522.42
+728-88-7867,C,Los Angeles,Member,Female,Home and lifestyle,75.53,4,15.11,317.226,3/19/2019,15:52,Ewallet,302.12,407.86
+183-21-3799,C,Los Angeles,Normal,Female,Electronic accessories,77.63,9,34.93,733.6035,2/19/2019,15:14,Ewallet,698.67,978.14
+268-20-3585,C,Los Angeles,Normal,Female,Health and beauty,13.85,9,6.23,130.8825,2/4/2019,12:50,Ewallet,124.65,168.28
+735-32-9839,C,Los Angeles,Member,Male,Food and beverages,98.7,8,39.48,829.08,1/31/2019,10:36,Ewallet,789.6,852.77
+258-92-7466,A,New York,Normal,Female,Health and beauty,35.68,5,8.92,187.32,2/6/2019,18:33,Credit card,178.4,240.84
+857-16-3520,A,New York,Member,Female,Food and beverages,71.46,7,25.01,525.231,3/28/2019,16:06,Ewallet,500.22,540.24
+482-17-1179,A,New York,Member,Male,Electronic accessories,11.94,3,1.79,37.611,1/19/2019,12:47,Credit card,35.82,50.15
+788-21-5741,A,New York,Normal,Male,Food and beverages,45.38,3,6.81,142.947,2/17/2019,13:34,Credit card,136.14,147.03
+821-14-9046,B,San Francisco,Member,Female,Food and beverages,17.48,6,5.24,110.124,1/18/2019,15:04,Credit card,104.88,113.27
+418-05-0656,B,San Francisco,Normal,Female,Food and beverages,25.56,7,8.95,187.866,2/2/2019,20:42,Cash,178.92,193.23
+678-79-0726,C,Los Angeles,Member,Female,Food and beverages,90.63,9,40.78,856.4535,1/18/2019,15:28,Cash,815.67,880.92
+776-68-1096,B,San Francisco,Normal,Male,Home and lifestyle,44.12,3,6.62,138.978,3/18/2019,13:45,Credit card,132.36,178.69
+592-46-1692,C,Los Angeles,Member,Female,Food and beverages,36.77,7,12.87,270.2595,1/11/2019,20:10,Cash,257.39,277.98
+434-35-9162,B,San Francisco,Member,Male,Food and beverages,23.34,4,4.67,98.028,2/4/2019,18:53,Ewallet,93.36,100.83
+149-14-0304,C,Los Angeles,Member,Female,Health and beauty,28.5,8,11.4,239.4,2/6/2019,14:24,Cash,228,307.8
+442-44-6497,C,Los Angeles,Member,Male,Home and lifestyle,55.57,3,8.34,175.0455,1/8/2019,11:42,Credit card,166.71,225.06
+174-64-0215,B,San Francisco,Normal,Male,Food and beverages,69.74,10,34.87,732.27,3/5/2019,17:49,Credit card,697.4,753.19
+210-74-9613,C,Los Angeles,Normal,Male,Food and beverages,97.26,4,19.45,408.492,3/16/2019,15:33,Ewallet,389.04,420.16
+299-29-0180,B,San Francisco,Member,Female,Home and lifestyle,52.18,7,18.26,383.523,3/9/2019,10:54,Cash,365.26,493.1
+247-11-2470,A,New York,Member,Female,Food and beverages,22.32,4,4.46,93.744,3/1/2019,16:23,Credit card,89.28,96.42
+635-28-5728,A,New York,Normal,Male,Health and beauty,56,3,8.4,176.4,2/28/2019,19:33,Ewallet,168,226.8
+756-49-0168,A,New York,Member,Male,Food and beverages,19.7,1,0.99,20.685,2/8/2019,11:39,Ewallet,19.7,21.28
+438-23-1242,B,San Francisco,Normal,Male,Electronic accessories,75.88,7,26.56,557.718,1/24/2019,10:38,Ewallet,531.16,743.62
+238-45-6950,B,San Francisco,Member,Male,Food and beverages,53.72,1,2.69,56.406,3/1/2019,20:03,Ewallet,53.72,58.02
+607-65-2441,C,Los Angeles,Member,Male,Health and beauty,81.95,10,40.98,860.475,3/10/2019,12:39,Credit card,819.5,1106.33
+386-27-7606,C,Los Angeles,Member,Female,Home and lifestyle,81.2,7,28.42,596.82,3/23/2019,15:59,Credit card,568.4,767.34
+137-63-5492,C,Los Angeles,Normal,Male,Electronic accessories,58.76,10,29.38,616.98,1/29/2019,14:26,Ewallet,587.6,822.64
+197-77-7132,B,San Francisco,Member,Male,Electronic accessories,91.56,8,36.62,769.104,1/12/2019,18:22,Ewallet,732.48,1025.47
+805-86-0265,A,New York,Normal,Male,Home and lifestyle,93.96,9,42.28,887.922,3/20/2019,11:32,Cash,845.64,1141.61
+733-29-1227,C,Los Angeles,Normal,Male,Home and lifestyle,55.61,7,19.46,408.7335,3/23/2019,12:41,Cash,389.27,525.51
+451-73-2711,C,Los Angeles,Normal,Male,Food and beverages,84.83,1,4.24,89.0715,1/14/2019,15:20,Ewallet,84.83,91.62
+373-14-0504,A,New York,Member,Female,Food and beverages,71.63,2,7.16,150.423,2/12/2019,14:33,Ewallet,143.26,154.72
+546-80-2899,A,New York,Member,Male,Home and lifestyle,37.69,2,3.77,79.149,2/20/2019,15:29,Ewallet,75.38,101.76
+345-68-9016,C,Los Angeles,Member,Female,Food and beverages,31.67,8,12.67,266.028,1/2/2019,16:19,Credit card,253.36,273.63
+390-17-5806,C,Los Angeles,Member,Female,Food and beverages,38.42,1,1.92,40.341,2/2/2019,16:33,Cash,38.42,41.49
+457-13-1708,B,San Francisco,Member,Male,Food and beverages,65.23,10,32.62,684.915,1/8/2019,19:07,Credit card,652.3,704.48
+664-14-2882,C,Los Angeles,Member,Female,Home and lifestyle,10.53,5,2.63,55.2825,1/30/2019,14:43,Credit card,52.65,71.08
+487-79-6868,B,San Francisco,Member,Female,Home and lifestyle,12.29,9,5.53,116.1405,3/26/2019,19:28,Credit card,110.61,149.32
+314-23-4520,C,Los Angeles,Member,Male,Health and beauty,81.23,7,28.43,597.0405,1/15/2019,20:44,Cash,568.61,767.62
+210-30-7976,B,San Francisco,Member,Female,Food and beverages,22.32,4,4.46,93.744,3/14/2019,11:16,Ewallet,89.28,96.42
+585-86-8361,A,New York,Normal,Female,Food and beverages,27.28,5,6.82,143.22,2/3/2019,10:31,Credit card,136.4,147.31
+807-14-7833,A,New York,Member,Female,Electronic accessories,17.42,10,8.71,182.91,2/22/2019,12:30,Ewallet,174.2,243.88
+775-72-1988,B,San Francisco,Normal,Male,Home and lifestyle,73.28,5,18.32,384.72,1/24/2019,15:05,Ewallet,366.4,494.64
+288-38-3758,C,Los Angeles,Member,Female,Food and beverages,84.87,3,12.73,267.3405,1/25/2019,18:30,Ewallet,254.61,274.98
+652-43-6591,A,New York,Normal,Female,Food and beverages,97.29,8,38.92,817.236,3/9/2019,13:18,Credit card,778.32,840.59
+785-96-0615,B,San Francisco,Member,Female,Electronic accessories,35.74,8,14.3,300.216,2/17/2019,15:28,Ewallet,285.92,400.29
+406-46-7107,A,New York,Normal,Female,Home and lifestyle,96.52,6,28.96,608.076,1/11/2019,11:52,Cash,579.12,781.81
+250-17-5703,A,New York,Member,Male,Food and beverages,18.85,10,9.43,197.925,2/27/2019,18:24,Ewallet,188.5,203.58
+156-95-3964,A,New York,Normal,Female,Food and beverages,55.39,4,11.08,232.638,3/25/2019,15:19,Ewallet,221.56,239.28
+842-40-8179,B,San Francisco,Member,Female,Food and beverages,77.2,10,38.6,810.6,2/11/2019,10:38,Credit card,772,833.76
+525-09-8450,B,San Francisco,Normal,Male,Electronic accessories,72.13,10,36.07,757.365,1/31/2019,15:12,Credit card,721.3,1009.82
+410-67-1709,A,New York,Member,Female,Food and beverages,63.88,8,25.55,536.592,1/20/2019,17:48,Ewallet,511.04,551.92
+587-73-4862,A,New York,Member,Female,Health and beauty,10.69,5,2.67,56.1225,3/26/2019,11:07,Ewallet,53.45,72.16
+787-87-2010,A,New York,Member,Male,Health and beauty,55.5,4,11.1,233.1,1/20/2019,15:48,Credit card,222,299.7
+593-14-4239,B,San Francisco,Normal,Female,Home and lifestyle,95.46,8,38.18,801.864,3/5/2019,19:40,Ewallet,763.68,1030.97
+801-88-0346,C,Los Angeles,Normal,Female,Food and beverages,76.06,3,11.41,239.589,1/5/2019,20:30,Credit card,228.18,246.43
+388-76-2555,B,San Francisco,Normal,Male,Food and beverages,13.69,6,4.11,86.247,2/13/2019,13:59,Cash,82.14,88.71
+711-31-1234,B,San Francisco,Normal,Female,Electronic accessories,95.64,4,19.13,401.688,3/16/2019,18:51,Cash,382.56,535.58
+886-54-6089,A,New York,Normal,Female,Home and lifestyle,11.43,6,3.43,72.009,1/15/2019,17:24,Cash,68.58,92.58
+707-32-7409,B,San Francisco,Member,Female,Food and beverages,95.54,4,19.11,401.268,2/26/2019,11:58,Ewallet,382.16,412.73
+759-98-4285,C,Los Angeles,Member,Female,Health and beauty,85.87,7,30.05,631.1445,2/27/2019,19:01,Credit card,601.09,811.47
+201-63-8275,C,Los Angeles,Member,Female,Food and beverages,67.99,7,23.8,499.7265,2/17/2019,16:50,Ewallet,475.93,514
+471-06-8611,C,Los Angeles,Normal,Female,Food and beverages,52.42,1,2.62,55.041,2/6/2019,10:22,Credit card,52.42,56.61
+200-16-5952,C,Los Angeles,Member,Male,Food and beverages,65.65,2,6.57,137.865,1/17/2019,16:46,Cash,131.3,141.8
+120-54-2248,B,San Francisco,Normal,Female,Food and beverages,28.86,5,7.22,151.515,1/22/2019,18:08,Credit card,144.3,155.84
+102-77-2261,C,Los Angeles,Member,Male,Health and beauty,65.31,7,22.86,480.0285,3/5/2019,18:02,Credit card,457.17,617.18
+875-31-8302,B,San Francisco,Normal,Male,Food and beverages,93.38,1,4.67,98.049,1/3/2019,13:07,Cash,93.38,100.85
+102-06-2002,C,Los Angeles,Member,Male,Food and beverages,25.25,5,6.31,132.5625,3/20/2019,17:52,Cash,126.25,136.35
+457-94-0464,B,San Francisco,Member,Male,Electronic accessories,87.87,9,39.54,830.3715,1/31/2019,20:32,Ewallet,790.83,1107.16
+629-42-4133,C,Los Angeles,Normal,Male,Health and beauty,21.8,8,8.72,183.12,2/19/2019,19:24,Cash,174.4,235.44
+534-53-3526,A,New York,Normal,Female,Food and beverages,94.76,4,18.95,397.992,2/11/2019,16:06,Ewallet,379.04,409.36
+307-04-2070,A,New York,Member,Female,Food and beverages,30.62,1,1.53,32.151,2/5/2019,14:14,Credit card,30.62,33.07
+468-99-7231,C,Los Angeles,Normal,Female,Home and lifestyle,44.01,8,17.6,369.684,3/3/2019,17:36,Cash,352.08,475.31
+516-77-6464,C,Los Angeles,Member,Female,Health and beauty,10.16,5,2.54,53.34,2/24/2019,13:08,Ewallet,50.8,68.58
+404-91-5964,A,New York,Normal,Male,Electronic accessories,74.58,7,26.1,548.163,2/4/2019,16:09,Credit card,522.06,730.88
+886-77-9084,C,Los Angeles,Normal,Male,Electronic accessories,71.89,8,28.76,603.876,2/19/2019,11:33,Ewallet,575.12,805.17
+790-38-4466,C,Los Angeles,Normal,Female,Health and beauty,10.99,5,2.75,57.6975,1/23/2019,10:18,Credit card,54.95,74.18
+704-10-4056,C,Los Angeles,Member,Male,Health and beauty,60.47,3,9.07,190.4805,1/14/2019,10:55,Credit card,181.41,244.9
+497-37-6538,A,New York,Normal,Male,Food and beverages,58.91,7,20.62,432.9885,1/17/2019,15:15,Ewallet,412.37,445.36
+651-96-5970,A,New York,Normal,Male,Food and beverages,46.41,1,2.32,48.7305,3/3/2019,20:06,Credit card,46.41,50.12
+400-80-4065,C,Los Angeles,Member,Male,Health and beauty,68.55,4,13.71,287.91,2/15/2019,20:21,Credit card,274.2,370.17
+744-16-7898,B,San Francisco,Normal,Female,Home and lifestyle,97.37,10,48.69,1022.385,1/15/2019,13:48,Credit card,973.7,1314.5
+263-12-5321,A,New York,Member,Male,Electronic accessories,92.6,7,32.41,680.61,2/27/2019,12:52,Credit card,648.2,907.48
+702-72-0487,A,New York,Normal,Female,Electronic accessories,46.61,2,4.66,97.881,2/26/2019,12:28,Credit card,93.22,130.51
+605-83-1050,B,San Francisco,Normal,Male,Food and beverages,27.18,2,2.72,57.078,3/15/2019,16:26,Ewallet,54.36,58.71
+443-60-9639,C,Los Angeles,Member,Female,Home and lifestyle,60.87,1,3.04,63.9135,1/24/2019,13:24,Cash,60.87,82.17
+864-24-7918,A,New York,Member,Female,Food and beverages,24.49,10,12.25,257.145,2/22/2019,15:15,Cash,244.9,264.49
+359-94-5395,B,San Francisco,Normal,Male,Health and beauty,92.78,1,4.64,97.419,3/15/2019,10:50,Credit card,92.78,125.25
+401-09-4232,C,Los Angeles,Member,Male,Home and lifestyle,86.69,5,21.67,455.1225,2/11/2019,18:38,Ewallet,433.45,585.16
+751-15-6198,B,San Francisco,Normal,Male,Food and beverages,23.01,6,6.9,144.963,1/12/2019,16:45,Ewallet,138.06,149.1
+324-41-6833,C,Los Angeles,Member,Female,Electronic accessories,30.2,8,12.08,253.68,3/3/2019,19:30,Ewallet,241.6,338.24
+474-33-8305,C,Los Angeles,Member,Male,Food and beverages,67.39,7,23.59,495.3165,3/23/2019,13:23,Ewallet,471.73,509.47
+759-29-9521,A,New York,Member,Female,Food and beverages,48.96,9,22.03,462.672,3/4/2019,11:27,Cash,440.64,475.89
+831-81-6575,B,San Francisco,Member,Female,Electronic accessories,75.59,9,34.02,714.3255,2/23/2019,11:12,Cash,680.31,952.43
+220-68-6701,A,New York,Normal,Female,Home and lifestyle,77.47,4,15.49,325.374,3/17/2019,16:36,Cash,309.88,418.34
+618-34-8551,A,New York,Normal,Female,Food and beverages,93.18,2,9.32,195.678,1/16/2019,18:41,Credit card,186.36,201.27
+257-60-7754,A,New York,Normal,Female,Electronic accessories,50.23,4,10.05,210.966,1/8/2019,17:12,Cash,200.92,281.29
+559-61-5987,B,San Francisco,Normal,Female,Health and beauty,17.75,1,0.89,18.6375,1/14/2019,10:38,Cash,17.75,23.96
+189-55-2313,C,Los Angeles,Normal,Female,Food and beverages,62.18,10,31.09,652.89,1/31/2019,10:33,Ewallet,621.8,671.54
+565-91-4567,B,San Francisco,Normal,Male,Health and beauty,10.75,8,4.3,90.3,3/15/2019,14:38,Ewallet,86,116.1
+380-60-5336,A,New York,Normal,Female,Electronic accessories,40.26,10,20.13,422.73,2/24/2019,18:06,Credit card,402.6,563.64
+815-04-6282,C,Los Angeles,Member,Female,Food and beverages,64.97,5,16.24,341.0925,2/8/2019,12:52,Credit card,324.85,350.84
+674-56-6360,A,New York,Normal,Male,Electronic accessories,95.15,1,4.76,99.9075,3/22/2019,14:00,Cash,95.15,133.21
+778-34-2523,A,New York,Member,Female,Electronic accessories,48.62,8,19.45,408.408,1/24/2019,10:57,Cash,388.96,544.54
+499-27-7781,B,San Francisco,Normal,Female,Food and beverages,53.21,8,21.28,446.964,3/14/2019,16:45,Ewallet,425.68,459.73
+477-59-2456,C,Los Angeles,Normal,Female,Food and beverages,45.44,7,15.9,333.984,1/23/2019,11:15,Cash,318.08,343.53
+832-51-6761,A,New York,Normal,Male,Food and beverages,33.88,8,13.55,284.592,1/19/2019,20:29,Ewallet,271.04,292.72
+869-11-3082,B,San Francisco,Member,Male,Health and beauty,96.16,4,19.23,403.872,1/27/2019,20:03,Credit card,384.64,519.26
+190-59-3964,B,San Francisco,Member,Male,Food and beverages,47.16,5,11.79,247.59,2/3/2019,14:35,Credit card,235.8,254.66
+366-43-6862,B,San Francisco,Normal,Male,Electronic accessories,52.89,4,10.58,222.138,3/25/2019,16:32,Ewallet,211.56,296.18
+186-43-8965,A,New York,Member,Female,Home and lifestyle,47.68,2,4.77,100.128,2/24/2019,10:10,Credit card,95.36,128.74
+784-21-9238,C,Los Angeles,Member,Male,Food and beverages,10.17,1,0.51,10.6785,2/7/2019,14:15,Cash,10.17,10.98
+276-75-6884,A,New York,Normal,Female,Health and beauty,68.71,3,10.31,216.4365,3/4/2019,10:05,Cash,206.13,278.28
+109-86-4363,B,San Francisco,Member,Female,Food and beverages,60.08,7,21.03,441.588,2/14/2019,11:36,Credit card,420.56,454.2
+569-76-2760,A,New York,Member,Female,Food and beverages,22.01,4,4.4,92.442,1/29/2019,18:15,Credit card,88.04,95.08
+222-42-0244,B,San Francisco,Member,Female,Health and beauty,72.11,9,32.45,681.4395,1/28/2019,13:53,Credit card,648.99,876.14
+760-53-9233,A,New York,Member,Male,Food and beverages,41.28,3,6.19,130.032,3/26/2019,18:37,Credit card,123.84,133.75
+538-22-0304,C,Los Angeles,Normal,Male,Electronic accessories,64.95,10,32.48,681.975,3/24/2019,18:27,Cash,649.5,909.3
+416-17-9926,A,New York,Member,Female,Electronic accessories,74.22,10,37.11,779.31,1/1/2019,14:42,Credit card,742.2,1039.08
+237-44-6163,A,New York,Normal,Male,Electronic accessories,10.56,8,4.22,88.704,1/24/2019,17:43,Cash,84.48,118.27
+636-17-0325,B,San Francisco,Normal,Male,Health and beauty,62.57,4,12.51,262.794,2/25/2019,18:37,Cash,250.28,337.88
+343-75-9322,B,San Francisco,Member,Female,Food and beverages,11.85,8,4.74,99.54,1/9/2019,16:34,Cash,94.8,102.38
+528-14-9470,A,New York,Member,Male,Health and beauty,91.3,1,4.57,95.865,2/14/2019,14:42,Ewallet,91.3,123.26
+427-45-9297,B,San Francisco,Member,Female,Home and lifestyle,40.73,7,14.26,299.3655,3/12/2019,11:01,Ewallet,285.11,384.9
+807-34-3742,A,New York,Normal,Male,Food and beverages,52.38,1,2.62,54.999,3/26/2019,19:44,Cash,52.38,56.57
+288-62-1085,A,New York,Member,Male,Food and beverages,38.54,5,9.64,202.335,1/9/2019,13:34,Ewallet,192.7,208.12
+670-71-7306,B,San Francisco,Normal,Male,Food and beverages,44.63,6,13.39,281.169,1/2/2019,20:08,Credit card,267.78,289.2
+660-29-7083,C,Los Angeles,Normal,Male,Electronic accessories,55.87,10,27.94,586.635,1/15/2019,15:01,Cash,558.7,782.18
+271-77-8740,C,Los Angeles,Member,Female,Food and beverages,29.22,6,8.77,184.086,1/1/2019,11:40,Ewallet,175.32,189.35
+497-36-0989,A,New York,Normal,Male,Food and beverages,51.94,3,7.79,163.611,2/15/2019,15:21,Cash,155.82,168.29
+291-59-1384,B,San Francisco,Normal,Male,Electronic accessories,60.3,1,3.02,63.315,2/28/2019,17:38,Cash,60.3,84.42
+860-73-6466,A,New York,Member,Female,Food and beverages,39.47,2,3.95,82.887,3/2/2019,16:16,Credit card,78.94,85.26
+549-23-9016,C,Los Angeles,Member,Female,Food and beverages,14.87,2,1.49,31.227,2/13/2019,18:15,Credit card,29.74,32.12
+896-34-0956,A,New York,Normal,Male,Food and beverages,21.32,1,1.07,22.386,1/26/2019,12:43,Cash,21.32,23.03
+804-38-3935,A,New York,Member,Male,Electronic accessories,93.78,3,14.07,295.407,1/30/2019,11:32,Credit card,281.34,393.88
+585-90-0249,A,New York,Member,Male,Electronic accessories,73.26,1,3.66,76.923,1/27/2019,18:08,Ewallet,73.26,102.56
+862-29-5914,C,Los Angeles,Normal,Female,Food and beverages,22.38,1,1.12,23.499,1/30/2019,17:08,Credit card,22.38,24.17
+845-94-6841,C,Los Angeles,Member,Female,Food and beverages,72.88,9,32.8,688.716,1/8/2019,19:38,Cash,655.92,708.39
+125-45-2293,A,New York,Normal,Female,Food and beverages,99.1,6,29.73,624.33,1/19/2019,13:11,Cash,594.6,642.17
+843-73-4724,A,New York,Normal,Male,Food and beverages,74.1,1,3.71,77.805,1/25/2019,11:05,Cash,74.1,80.03
+409-33-9708,A,New York,Normal,Female,Food and beverages,98.48,2,9.85,206.808,2/19/2019,10:12,Ewallet,196.96,212.72
+658-66-3967,C,Los Angeles,Normal,Male,Health and beauty,53.19,7,18.62,390.9465,1/14/2019,15:42,Ewallet,372.33,502.65
+866-70-2814,B,San Francisco,Normal,Female,Electronic accessories,52.79,10,26.4,554.295,2/25/2019,11:58,Ewallet,527.9,739.06
+160-22-2687,A,New York,Member,Female,Health and beauty,95.95,5,23.99,503.7375,1/23/2019,14:21,Ewallet,479.75,647.66
+895-03-6665,B,San Francisco,Normal,Female,Food and beverages,36.51,9,16.43,345.0195,2/16/2019,10:52,Cash,328.59,354.88
+770-42-8960,B,San Francisco,Normal,Male,Food and beverages,21.12,8,8.45,177.408,1/1/2019,19:31,Cash,168.96,182.48
+748-45-2862,A,New York,Member,Female,Home and lifestyle,28.31,4,5.66,118.902,3/7/2019,18:35,Cash,113.24,152.87
+234-36-2483,B,San Francisco,Normal,Male,Health and beauty,57.59,6,17.28,362.817,2/15/2019,13:51,Cash,345.54,466.48
+316-66-3011,A,New York,Member,Female,Food and beverages,47.63,9,21.43,450.1035,1/23/2019,12:35,Cash,428.67,462.96
+848-95-6252,C,Los Angeles,Member,Female,Home and lifestyle,86.27,1,4.31,90.5835,2/20/2019,13:24,Ewallet,86.27,116.46
+840-76-5966,A,New York,Member,Male,Food and beverages,12.76,2,1.28,26.796,1/8/2019,18:06,Ewallet,25.52,27.56
+152-03-4217,B,San Francisco,Normal,Female,Home and lifestyle,11.28,9,5.08,106.596,3/17/2019,11:55,Credit card,101.52,137.05
+533-66-5566,B,San Francisco,Normal,Female,Home and lifestyle,51.07,7,17.87,375.3645,1/12/2019,11:42,Cash,357.49,482.61
+124-31-1458,A,New York,Member,Female,Electronic accessories,79.59,3,11.94,250.7085,1/8/2019,14:30,Cash,238.77,334.28
+176-78-1170,C,Los Angeles,Member,Male,Health and beauty,33.81,3,5.07,106.5015,1/26/2019,15:11,Ewallet,101.43,136.93
+361-59-0574,B,San Francisco,Member,Male,Food and beverages,90.53,8,36.21,760.452,3/15/2019,14:48,Credit card,724.24,782.18
+101-81-4070,C,Los Angeles,Member,Female,Health and beauty,62.82,2,6.28,131.922,1/17/2019,12:36,Ewallet,125.64,169.61
+631-34-1880,C,Los Angeles,Member,Male,Food and beverages,24.31,3,3.65,76.5765,1/8/2019,19:09,Credit card,72.93,78.76
+852-82-2749,A,New York,Normal,Male,Food and beverages,64.59,4,12.92,271.278,1/6/2019,13:35,Ewallet,258.36,279.03
+873-14-6353,A,New York,Member,Male,Food and beverages,24.82,7,8.69,182.427,2/16/2019,10:33,Credit card,173.74,187.64
+584-66-4073,C,Los Angeles,Normal,Male,Food and beverages,56.5,1,2.83,59.325,3/13/2019,15:45,Ewallet,56.5,61.02
+544-55-9589,B,San Francisco,Member,Female,Electronic accessories,21.43,10,10.72,225.015,1/28/2019,11:51,Cash,214.3,300.02
+166-19-2553,A,New York,Member,Male,Food and beverages,89.06,6,26.72,561.078,1/18/2019,17:26,Cash,534.36,577.11
+737-88-5876,A,New York,Member,Male,Home and lifestyle,23.29,4,4.66,97.818,3/19/2019,11:52,Credit card,93.16,125.77
+154-87-7367,C,Los Angeles,Normal,Male,Home and lifestyle,65.26,8,26.1,548.184,3/15/2019,14:04,Ewallet,522.08,704.81
+885-56-0389,C,Los Angeles,Member,Male,Food and beverages,52.35,1,2.62,54.9675,2/12/2019,17:49,Cash,52.35,56.54
+608-05-3804,B,San Francisco,Member,Male,Electronic accessories,39.75,1,1.99,41.7375,2/25/2019,20:19,Cash,39.75,55.65
+448-61-3783,A,New York,Normal,Female,Electronic accessories,90.02,8,36.01,756.168,3/21/2019,16:08,Credit card,720.16,1008.22
+761-49-0439,B,San Francisco,Member,Female,Electronic accessories,12.1,8,4.84,101.64,1/19/2019,10:17,Ewallet,96.8,135.52
+490-95-0021,B,San Francisco,Member,Female,Food and beverages,33.21,10,16.61,348.705,1/8/2019,14:25,Ewallet,332.1,358.67
+115-38-7388,C,Los Angeles,Member,Female,Food and beverages,10.18,8,4.07,85.512,3/30/2019,12:51,Credit card,81.44,87.96
+311-13-6971,B,San Francisco,Member,Male,Food and beverages,31.99,10,16,335.895,2/20/2019,15:18,Credit card,319.9,345.49
+291-55-6563,A,New York,Member,Female,Home and lifestyle,34.42,6,10.33,216.846,3/30/2019,12:45,Ewallet,206.52,278.8
+548-48-3156,A,New York,Member,Female,Food and beverages,83.34,2,8.33,175.014,3/19/2019,13:37,Cash,166.68,180.01
+460-93-5834,A,New York,Normal,Male,Food and beverages,45.58,7,15.95,335.013,1/13/2019,10:03,Cash,319.06,344.58
+325-89-4209,A,New York,Member,Male,Food and beverages,87.9,1,4.4,92.295,2/5/2019,19:42,Ewallet,87.9,94.93
+884-80-6021,A,New York,Member,Female,Electronic accessories,73.47,10,36.74,771.435,3/23/2019,13:14,Ewallet,734.7,1028.58
+137-74-8729,C,Los Angeles,Normal,Female,Food and beverages,12.19,8,4.88,102.396,3/13/2019,12:47,Ewallet,97.52,105.32
+880-46-5796,A,New York,Member,Male,Food and beverages,76.92,10,38.46,807.66,3/17/2019,19:53,Ewallet,769.2,830.74
+389-70-2397,C,Los Angeles,Normal,Female,Health and beauty,83.66,5,20.92,439.215,2/21/2019,10:26,Cash,418.3,564.71
+114-35-5271,B,San Francisco,Normal,Female,Electronic accessories,57.91,8,23.16,486.444,2/7/2019,15:06,Cash,463.28,648.59
+607-76-6216,C,Los Angeles,Member,Female,Food and beverages,92.49,5,23.12,485.5725,3/2/2019,16:35,Credit card,462.45,499.45
+715-20-1673,B,San Francisco,Normal,Male,Electronic accessories,28.38,5,7.1,148.995,3/6/2019,20:57,Cash,141.9,198.66
+811-35-1094,B,San Francisco,Member,Male,Electronic accessories,50.45,6,15.14,317.835,2/6/2019,15:16,Credit card,302.7,423.78
+699-88-1972,B,San Francisco,Normal,Male,Health and beauty,99.16,8,39.66,832.944,1/28/2019,17:47,Credit card,793.28,1070.93
+781-84-8059,C,Los Angeles,Normal,Male,Food and beverages,60.74,7,21.26,446.439,1/18/2019,16:23,Ewallet,425.18,459.19
+409-49-6995,C,Los Angeles,Member,Female,Food and beverages,47.27,6,14.18,297.801,2/5/2019,10:17,Cash,283.62,306.31
+725-54-0677,C,Los Angeles,Member,Male,Health and beauty,85.6,7,29.96,629.16,3/2/2019,13:50,Cash,599.2,808.92
+146-09-5432,A,New York,Member,Male,Food and beverages,35.04,9,15.77,331.128,2/9/2019,19:17,Ewallet,315.36,340.59
+377-79-7592,C,Los Angeles,Member,Female,Electronic accessories,44.84,9,20.18,423.738,1/14/2019,14:00,Credit card,403.56,564.98
+509-10-0516,B,San Francisco,Normal,Male,Home and lifestyle,45.97,4,9.19,193.074,2/9/2019,12:02,Ewallet,183.88,248.24
+595-94-9924,A,New York,Member,Female,Health and beauty,27.73,5,6.93,145.5825,3/26/2019,20:21,Credit card,138.65,187.18
+865-41-9075,A,New York,Normal,Male,Food and beverages,11.53,7,4.04,84.7455,1/28/2019,17:35,Cash,80.71,87.17
+545-07-8534,C,Los Angeles,Normal,Female,Health and beauty,58.32,2,5.83,122.472,2/14/2019,12:42,Ewallet,116.64,157.46
+118-62-1812,C,Los Angeles,Member,Female,Home and lifestyle,78.38,4,15.68,329.196,3/24/2019,17:56,Cash,313.52,423.25
+450-42-3339,C,Los Angeles,Normal,Male,Health and beauty,84.61,10,42.31,888.405,2/9/2019,18:58,Credit card,846.1,1142.24
+851-98-3555,B,San Francisco,Normal,Female,Health and beauty,82.88,5,20.72,435.12,3/24/2019,14:08,Credit card,414.4,559.44
+186-71-5196,A,New York,Member,Female,Food and beverages,79.54,2,7.95,167.034,3/27/2019,16:30,Ewallet,159.08,171.81
+624-01-8356,B,San Francisco,Normal,Female,Home and lifestyle,49.01,10,24.51,514.605,1/27/2019,10:44,Credit card,490.1,661.64
+313-66-9943,B,San Francisco,Member,Female,Food and beverages,29.15,3,4.37,91.8225,3/27/2019,20:29,Credit card,87.45,94.45
+151-27-8496,C,Los Angeles,Normal,Female,Electronic accessories,56.13,4,11.23,235.746,1/19/2019,11:43,Ewallet,224.52,314.33
+453-33-6436,A,New York,Normal,Female,Home and lifestyle,93.12,8,37.25,782.208,2/7/2019,10:09,Cash,744.96,1005.7
+522-57-8364,A,New York,Member,Male,Food and beverages,51.34,8,20.54,431.256,1/31/2019,10:00,Ewallet,410.72,443.58
+459-45-2396,A,New York,Member,Female,Food and beverages,99.6,3,14.94,313.74,2/25/2019,18:45,Cash,298.8,322.7
+717-96-4189,C,Los Angeles,Normal,Female,Electronic accessories,35.49,6,10.65,223.587,2/2/2019,12:40,Cash,212.94,298.12
+722-13-2115,C,Los Angeles,Member,Male,Food and beverages,42.85,1,2.14,44.9925,3/14/2019,15:36,Credit card,42.85,46.28
+749-81-8133,A,New York,Normal,Female,Food and beverages,94.67,4,18.93,397.614,3/11/2019,12:04,Cash,378.68,408.97
+777-67-2495,B,San Francisco,Normal,Male,Home and lifestyle,68.97,3,10.35,217.2555,2/22/2019,11:26,Ewallet,206.91,279.33
+636-98-3364,B,San Francisco,Member,Female,Electronic accessories,26.26,3,3.94,82.719,3/2/2019,12:36,Ewallet,78.78,110.29
+246-55-6923,C,Los Angeles,Member,Female,Home and lifestyle,35.79,9,16.11,338.2155,3/10/2019,15:06,Credit card,322.11,434.85
+181-82-6255,B,San Francisco,Normal,Female,Home and lifestyle,16.37,6,4.91,103.131,2/8/2019,10:58,Cash,98.22,132.6
+838-02-1821,C,Los Angeles,Member,Female,Home and lifestyle,12.73,2,1.27,26.733,2/22/2019,12:10,Credit card,25.46,34.37
+887-42-0517,C,Los Angeles,Normal,Female,Food and beverages,83.14,7,29.1,611.079,1/10/2019,10:31,Credit card,581.98,628.54
+457-12-0244,C,Los Angeles,Member,Female,Food and beverages,35.22,6,10.57,221.886,3/14/2019,13:49,Ewallet,211.32,228.23
+226-34-0034,B,San Francisco,Normal,Female,Electronic accessories,13.78,4,2.76,57.876,1/10/2019,11:10,Ewallet,55.12,77.17
+321-49-7382,B,San Francisco,Member,Male,Food and beverages,88.31,1,4.42,92.7255,2/15/2019,17:38,Credit card,88.31,95.37
+397-25-8725,A,New York,Member,Female,Health and beauty,39.62,9,17.83,374.409,1/13/2019,17:54,Credit card,356.58,481.38
+431-66-2305,B,San Francisco,Normal,Female,Electronic accessories,88.25,9,39.71,833.9625,2/15/2019,20:51,Credit card,794.25,1111.95
+825-94-5922,B,San Francisco,Normal,Male,Food and beverages,25.31,2,2.53,53.151,3/2/2019,19:26,Ewallet,50.62,54.67
+641-62-7288,B,San Francisco,Normal,Male,Home and lifestyle,99.92,6,29.98,629.496,3/24/2019,13:33,Ewallet,599.52,809.35
+756-93-1854,C,Los Angeles,Member,Female,Food and beverages,83.35,2,8.34,175.035,2/2/2019,14:05,Credit card,166.7,180.04
+243-55-8457,A,New York,Normal,Female,Food and beverages,74.44,10,37.22,781.62,2/27/2019,11:40,Ewallet,744.4,803.95
+458-10-8612,C,Los Angeles,Normal,Male,Health and beauty,64.08,7,22.43,470.988,1/20/2019,12:27,Ewallet,448.56,605.56
+501-61-1753,B,San Francisco,Normal,Female,Home and lifestyle,63.15,6,18.95,397.845,1/3/2019,20:24,Ewallet,378.9,511.52
+235-06-8510,C,Los Angeles,Member,Male,Home and lifestyle,85.72,3,12.86,270.018,1/24/2019,20:59,Ewallet,257.16,347.17
+433-08-7822,C,Los Angeles,Normal,Female,Health and beauty,78.89,7,27.61,579.8415,1/5/2019,19:48,Ewallet,552.23,745.51
+361-85-2571,A,New York,Normal,Female,Food and beverages,89.48,5,22.37,469.77,3/30/2019,10:18,Cash,447.4,483.19
+131-70-8179,A,New York,Member,Female,Health and beauty,92.09,3,13.81,290.0835,2/17/2019,16:27,Cash,276.27,372.96
+500-02-2261,C,Los Angeles,Normal,Female,Food and beverages,57.29,6,17.19,360.927,3/21/2019,17:04,Ewallet,343.74,371.24
+720-72-2436,A,New York,Normal,Male,Food and beverages,66.52,4,13.3,279.384,3/2/2019,18:14,Ewallet,266.08,287.37
+702-83-5291,C,Los Angeles,Member,Male,Food and beverages,99.82,9,44.92,943.299,3/27/2019,10:43,Cash,898.38,970.25
+809-69-9497,A,New York,Normal,Female,Home and lifestyle,45.68,10,22.84,479.64,1/19/2019,19:30,Ewallet,456.8,616.68
+449-16-6770,A,New York,Normal,Male,Health and beauty,50.79,5,12.7,266.6475,2/19/2019,14:53,Credit card,253.95,342.83
+333-23-2632,A,New York,Member,Male,Health and beauty,10.08,7,3.53,74.088,3/28/2019,20:14,Cash,70.56,95.26
+489-82-1237,A,New York,Normal,Female,Electronic accessories,93.88,7,32.86,690.018,1/5/2019,11:51,Credit card,657.16,920.02
+859-97-6048,C,Los Angeles,Member,Male,Electronic accessories,84.25,2,8.43,176.925,3/26/2019,14:13,Credit card,168.5,235.9
+676-10-2200,B,San Francisco,Member,Male,Food and beverages,53.78,1,2.69,56.469,2/3/2019,20:13,Ewallet,53.78,58.08
+373-88-1424,C,Los Angeles,Member,Male,Home and lifestyle,35.81,5,8.95,188.0025,2/6/2019,18:44,Ewallet,179.05,241.72
+365-16-4334,B,San Francisco,Normal,Female,Food and beverages,26.43,8,10.57,222.012,2/24/2019,14:26,Ewallet,211.44,228.36
+503-21-4385,B,San Francisco,Member,Male,Health and beauty,39.91,3,5.99,125.7165,2/21/2019,12:40,Ewallet,119.73,161.64
+305-89-2768,B,San Francisco,Member,Female,Home and lifestyle,21.9,3,3.29,68.985,1/9/2019,18:43,Ewallet,65.7,88.7
+574-80-1489,B,San Francisco,Member,Female,Food and beverages,62.85,4,12.57,263.97,2/25/2019,13:22,Ewallet,251.4,271.51
+784-08-0310,C,Los Angeles,Member,Female,Food and beverages,21.04,4,4.21,88.368,1/13/2019,13:58,Cash,84.16,90.89
+200-40-6154,B,San Francisco,Member,Male,Home and lifestyle,65.91,6,19.77,415.233,2/9/2019,11:45,Cash,395.46,533.87
+846-10-0341,A,New York,Normal,Female,Food and beverages,42.57,7,14.9,312.8895,1/6/2019,11:51,Cash,297.99,321.83
+577-34-7579,C,Los Angeles,Member,Male,Food and beverages,50.49,9,22.72,477.1305,1/10/2019,17:16,Cash,454.41,490.76
+430-02-3888,B,San Francisco,Normal,Male,Electronic accessories,46.02,6,13.81,289.926,2/7/2019,15:55,Cash,276.12,386.57
+867-47-1948,C,Los Angeles,Normal,Female,Home and lifestyle,15.8,10,7.9,165.9,1/9/2019,12:07,Cash,158,213.3
+384-59-6655,A,New York,Member,Female,Food and beverages,98.66,9,44.4,932.337,2/19/2019,15:07,Cash,887.94,958.98
+256-58-3609,C,Los Angeles,Member,Male,Food and beverages,91.98,1,4.6,96.579,3/18/2019,15:29,Cash,91.98,99.34
+324-92-3863,A,New York,Member,Male,Electronic accessories,20.89,2,2.09,43.869,2/5/2019,18:45,Cash,41.78,58.49
+593-08-5916,A,New York,Normal,Female,Food and beverages,15.5,1,0.78,16.275,3/19/2019,15:23,Credit card,15.5,16.74
+364-34-2972,C,Los Angeles,Member,Male,Electronic accessories,96.82,3,14.52,304.983,3/30/2019,20:37,Cash,290.46,406.64
+794-42-3736,B,San Francisco,Normal,Male,Food and beverages,33.33,2,3.33,69.993,1/26/2019,14:41,Credit card,66.66,71.99
+172-42-8274,B,San Francisco,Normal,Female,Electronic accessories,38.27,2,3.83,80.367,3/2/2019,18:18,Credit card,76.54,107.16
+558-60-5016,A,New York,Normal,Female,Home and lifestyle,33.3,9,14.99,314.685,3/4/2019,15:27,Ewallet,299.7,404.6
+195-06-0432,A,New York,Member,Male,Home and lifestyle,81.01,3,12.15,255.1815,1/13/2019,12:55,Credit card,243.03,328.09
+605-03-2706,A,New York,Normal,Female,Health and beauty,15.8,3,2.37,49.77,3/25/2019,18:02,Cash,47.4,63.99
+214-30-2776,B,San Francisco,Member,Female,Electronic accessories,34.49,5,8.62,181.0725,3/11/2019,19:44,Credit card,172.45,241.43
+746-04-1077,B,San Francisco,Member,Female,Food and beverages,84.63,10,42.32,888.615,1/1/2019,11:36,Credit card,846.3,914
+448-34-8700,B,San Francisco,Member,Male,Home and lifestyle,36.91,7,12.92,271.2885,2/10/2019,13:51,Ewallet,258.37,348.8
+452-04-8808,B,San Francisco,Normal,Male,Electronic accessories,87.08,7,30.48,640.038,1/26/2019,15:17,Cash,609.56,853.38
+531-56-4728,A,New York,Normal,Male,Home and lifestyle,80.08,3,12.01,252.252,2/11/2019,15:29,Cash,240.24,324.32
+744-82-9138,C,Los Angeles,Normal,Male,Food and beverages,86.13,2,8.61,180.873,2/7/2019,17:59,Cash,172.26,186.04
+883-69-1285,B,San Francisco,Member,Male,Food and beverages,49.92,2,4.99,104.832,3/6/2019,11:55,Credit card,99.84,107.83
+221-25-5073,A,New York,Normal,Female,Food and beverages,74.66,4,14.93,313.572,3/4/2019,10:39,Cash,298.64,322.53
+518-71-6847,B,San Francisco,Member,Male,Food and beverages,26.6,6,7.98,167.58,2/26/2019,15:10,Ewallet,159.6,172.37
+156-20-0370,B,San Francisco,Normal,Female,Electronic accessories,25.45,1,1.27,26.7225,3/10/2019,18:10,Credit card,25.45,35.63
+151-33-7434,B,San Francisco,Normal,Female,Food and beverages,67.77,1,3.39,71.1585,2/4/2019,20:43,Credit card,67.77,73.19
+728-47-9078,C,Los Angeles,Member,Male,Food and beverages,59.59,4,11.92,250.278,1/19/2019,12:46,Cash,238.36,257.43
+809-46-1866,A,New York,Normal,Male,Health and beauty,58.15,4,11.63,244.23,1/23/2019,17:44,Cash,232.6,314.01
+139-32-4183,A,New York,Member,Female,Food and beverages,97.48,9,43.87,921.186,3/14/2019,14:19,Ewallet,877.32,947.51
+148-41-7930,C,Los Angeles,Normal,Male,Health and beauty,99.96,7,34.99,734.706,1/23/2019,10:33,Cash,699.72,944.62
+189-40-5216,C,Los Angeles,Normal,Male,Electronic accessories,96.37,7,33.73,708.3195,1/9/2019,11:40,Cash,674.59,944.43
+374-38-5555,B,San Francisco,Normal,Female,Food and beverages,63.71,5,15.93,334.4775,2/7/2019,19:30,Ewallet,318.55,344.03
+764-44-8999,B,San Francisco,Normal,Female,Health and beauty,14.76,2,1.48,30.996,2/18/2019,14:42,Ewallet,29.52,39.85
+552-44-5977,B,San Francisco,Member,Male,Health and beauty,62,8,24.8,520.8,1/3/2019,19:08,Credit card,496,669.6
+267-62-7380,C,Los Angeles,Member,Male,Electronic accessories,82.34,10,41.17,864.57,3/29/2019,19:12,Ewallet,823.4,1152.76
+430-53-4718,B,San Francisco,Member,Male,Health and beauty,75.37,8,30.15,633.108,1/28/2019,15:46,Credit card,602.96,814
+886-18-2897,A,New York,Normal,Female,Food and beverages,56.56,5,14.14,296.94,3/22/2019,19:06,Credit card,282.8,305.42
+602-16-6955,B,San Francisco,Normal,Female,Food and beverages,76.6,10,38.3,804.3,1/24/2019,18:10,Ewallet,766,827.28
+745-74-0715,A,New York,Normal,Male,Electronic accessories,58.03,2,5.8,121.863,3/10/2019,20:46,Ewallet,116.06,162.48
+690-01-6631,B,San Francisco,Normal,Male,Food and beverages,17.49,10,8.75,183.645,2/22/2019,18:35,Ewallet,174.9,188.89
+652-49-6720,C,Los Angeles,Member,Female,Electronic accessories,60.95,1,3.05,63.9975,2/18/2019,11:40,Ewallet,60.95,85.33
+233-67-5758,C,Los Angeles,Normal,Male,Health and beauty,40.35,1,2.02,42.3675,1/29/2019,13:46,Ewallet,40.35,54.47
+303-96-2227,B,San Francisco,Normal,Female,Home and lifestyle,97.38,10,48.69,1022.49,3/2/2019,17:16,Ewallet,973.8,1314.63
+727-02-1313,A,New York,Member,Male,Food and beverages,31.84,1,1.59,33.432,2/9/2019,13:22,Cash,31.84,34.39
+347-56-2442,A,New York,Normal,Male,Home and lifestyle,65.82,1,3.29,69.111,2/22/2019,15:33,Cash,65.82,88.86
+849-09-3807,A,New York,Member,Female,Food and beverages,88.34,7,30.92,649.299,2/18/2019,13:28,Cash,618.38,667.85
